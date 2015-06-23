@@ -191,7 +191,7 @@ if (gzip_enabled())
 /* wap头文件 */
 //if (substr($_SERVER['SCRIPT_NAME'], strrpos($_SERVER['SCRIPT_NAME'], '/')) != '/user.php')
 //{}
-header("Content-Type:text/html; charset=utf-8");
+//header("Content-Type:text/html; charset=utf-8");
 
 if (empty($_CFG['wap_config']))
 {

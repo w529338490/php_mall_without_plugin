@@ -809,7 +809,7 @@ padding:10px 0;
 .icons_nav a:active {outline: none;}
 .slides,
 .flex-control-nav,
-.flex-direction-nav {margin: 0; padding: 0; list-style: none;} 
+.flex-direction-nav {margin: 0; padding: 0; list-style: none;}
 
 .icons_nav {width: 100%; margin: 0; padding: 0;}
 .icons_nav .slides > li {display: none;} /* Hide the slides before the JS is loaded. Avoids image jumping */
@@ -828,7 +828,7 @@ padding:10px 0;
 .images_slider .slides_goods img {max-width: 100%; display: block;}
 
 .slides:after {content: "."; display: block; clear: both; visibility: hidden; line-height: 0; height: 0;}
-html[xmlns] .slides {display: block;} 
+html[xmlns] .slides {display: block;}
 * html .slides {height: 1%;}
 
 .no-js .slides > li:first-child {display: block;}
