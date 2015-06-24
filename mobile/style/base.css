@@ -19,9 +19,19 @@ a {
 	text-decoration:none;
 	color:#67738A;
 }
+
+.img1 {
+	vertical-align:middle;
+  height:18px;
+}
+
+.img3 {
+	vertical-align:middle;
+  height:22px;
+}
 img {
 	vertical-align:middle;
-  height:35px;
+  height:30px;
 }
 .clear {
 	clear:both;

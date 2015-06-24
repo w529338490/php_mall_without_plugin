@@ -36,7 +36,7 @@ document.querySelector('#indicator > li:nth-child(' + (this.currPageX+1) + ')').
         });
     }
     document.addEventListener('DOMContentLoaded', loaded, false);
-    setInterval(function(){  
+    setInterval(function(){
         if(myScroll.currPageX==3){
             myScroll.scrollToPage(0, 0);
         }else{
@@ -82,31 +82,6 @@ function changePriceResponse(result){
 </head>
 <body>
 {include file='head.html'}
-<form name="searchForm" method="get" action="search.php" class="search">
-	<input name="keywords" id="keyword" type="text" class="keyword" value="" placeholder="请输入关键词">
-	<input type="submit" value="搜索" class="search-button">
-</form>
-
-
-<div class="activities ">
-	<div class="container">
-		<div class="list hm mtm menu">
-        <a href="user.php?act=order_list">
-        <img src="images/m1.png" alt="我的订单">
-        </a>
-        <a href="category.php">
-        <img src="images/m2.png" alt="商品分类">
-        </a>
-        <a href="brands.php">
-        <img src="images/m3.png" alt="品牌馆">
-        </a>
-        <a href="article.php">
-        <img src="images/m4.png"  alt="新闻中心">
-        </a>
-		</div>
-        
-	</div>
-</div>
 
 
 <div id="hot">
@@ -123,9 +98,8 @@ function changePriceResponse(result){
 			<li>
 				<div class="mc">
 					<div class="t-lists">
-                    <div class="hm"><a href="brands.php"> <img src="images/ad1.jpg"/> </a></div>
          {if $new_num > 0}
-						{foreach from=$new_goods item=data name=goo} 
+						{foreach from=$new_goods item=data name=goo}
 						<div class="box{if $smarty.foreach.goo.iteration == 1} first{/if}">
 							<table cellspacing="0" cellpadding="0" class="tab" width="95%" >
 								<tbody>
@@ -134,7 +108,7 @@ function changePriceResponse(result){
 										<td  valign="top" class="text"><div class="p-name" style="color: #3C3C3C;font-size: 0.875em;" ><a href="goods.php?id={$data.id}">{$data.name}<font color="red">{$data.goods_brief}</font></a> </div>
 											<div class="p-name" style="width:180px;font-size: 0.875em;"><span>价格： <font color="red" style="font-family:Arial;font-weight:bold"> {if $promote_price}{$data.promote_price}{else}{$data.shop_price}{/if}</font></span></div>
                                             <div class="p-detail" >
-                                            <a href="javascript:;" class="btn_num" onClick="red_num({$data.id},{$data.id});" title="减少数量">-</a> 
+                                            <a href="javascript:;" class="btn_num" onClick="red_num({$data.id},{$data.id});" title="减少数量">-</a>
 						<input type="text" name="goods_number[{$data.id}]" id="goods_number_{$data.id}" value="0" size="3" style="text-align:center;border: 1px solid #b3b3b3;" onBlur="change_price({$data.id},{$data.id})" />
 						 <a href="javascript:;" class="btn_num" onClick="add_num({$data.id},{$data.id})" title="增加数量" >+</a>
                          </div>
@@ -153,7 +127,6 @@ function changePriceResponse(result){
 			<li>
 				<div class="mc">
 					<div class="t-lists">
-                    <div class="hm"><a href="brands.php"> <img src="images/ad2.jpg"/> </a></div>
                      {if $best_num > 0}
 						{foreach from=$best_goods item=data name=goo} <div class="box{if $smarty.foreach.goo.iteration == 1} first{/if}">
 							<table cellspacing="0" cellpadding="0" class="tab" width="95%" >
@@ -163,7 +136,7 @@ function changePriceResponse(result){
 										<td  valign="top" class="text"><div class="p-name" style="color: #3C3C3C;font-size: 0.875em;" ><a href="goods.php?id={$data.id}">{$data.name}<font color="red">{$data.goods_brief}</font></a> </div>
 											<div class="p-name" style="width:180px;font-size: 0.875em;"><span>价格： <font color="red" style="font-family:Arial;font-weight:bold"> {if $promote_price}{$data.promote_price}{else}{$data.shop_price}{/if}</font></span></div>
                                             <div class="p-detail" >
-                                            <a href="javascript:;" class="btn_num" onClick="red_num({$data.id},{$data.id});" title="减少数量">-</a> 
+                                            <a href="javascript:;" class="btn_num" onClick="red_num({$data.id},{$data.id});" title="减少数量">-</a>
 						<input type="text" name="goods_number[{$data.id}]" id="goods_number_{$data.id}" value="0" size="3" style="text-align:center;border: 1px solid #b3b3b3;" onBlur="change_price({$data.id},{$data.id})" />
 						 <a href="javascript:;" class="btn_num" onClick="add_num({$data.id},{$data.id})" title="增加数量" >+</a>
                          </div>
@@ -181,7 +154,6 @@ function changePriceResponse(result){
 			<li>
 				<div class="mc">
 					<div class="t-lists">
-                    <div class="hm"><a href="brands.php"> <img src="images/ad3.jpg"/> </a></div>
                     {if $hot_num > 0}
 						{foreach from=$hot_goods item=data name=goo} <div class="box{if $smarty.foreach.goo.iteration == 1} first{/if}">
 							<table cellspacing="0" cellpadding="0" class="tab" width="95%" >
@@ -191,7 +163,7 @@ function changePriceResponse(result){
 										<td  valign="top" class="text"><div class="p-name" style="color: #3C3C3C;font-size: 0.875em;" ><a href="goods.php?id={$data.id}">{$data.name}<font color="red">{$data.goods_brief}</font></a> </div>
 											<div class="p-name" style="width:180px;font-size: 0.875em;"><span>价格： <font color="red" style="font-family:Arial;font-weight:bold"> {if $promote_price}{$data.promote_price}{else}{$data.shop_price}{/if}</font></span></div>
                                             <div class="p-detail" >
-                                            <a href="javascript:;" class="btn_num" onClick="red_num({$data.id},{$data.id});" title="减少数量">-</a> 
+                                            <a href="javascript:;" class="btn_num" onClick="red_num({$data.id},{$data.id});" title="减少数量">-</a>
 						<input type="text" name="goods_number[{$data.id}]" id="goods_number_{$data.id}" value="0" size="3" style="text-align:center;border: 1px solid #b3b3b3;" onBlur="change_price({$data.id},{$data.id})" />
 						 <a href="javascript:;" class="btn_num" onClick="add_num({$data.id},{$data.id})" title="增加数量" >+</a>
                          </div>
@@ -209,7 +181,6 @@ function changePriceResponse(result){
 			<li>
 				<div class="mc">
 					<div class="t-lists">
-                    <div class="hm"><a href="brands.php"> <img src="images/ad4.jpg"/> </a></div>
                     {if $promote_num > 0}
 						{foreach from=$promote_goods item=data name=goo}<div class="box{if $smarty.foreach.goo.iteration == 1} first{/if}">
 							<table cellspacing="0" cellpadding="0" class="tab" width="95%" >
@@ -219,7 +190,7 @@ function changePriceResponse(result){
 										<td  valign="top" class="text"><div class="p-name" style="color: #3C3C3C;font-size: 0.875em;" ><a href="goods.php?id={$data.id}">{$data.name}<font color="red">{$data.goods_brief}</font></a> </div>
 											<div class="p-name" style="width:180px;font-size: 0.875em;"><span>价格： <font color="red" style="font-family:Arial;font-weight:bold"> {if $promote_price}{$data.promote_price}{else}{$data.shop_price}{/if}</font></span></div>
                                             <div class="p-detail" >
-                                            <a href="javascript:;" class="btn_num" onClick="red_num({$data.id},{$data.id});" title="减少数量">-</a> 
+                                            <a href="javascript:;" class="btn_num" onClick="red_num({$data.id},{$data.id});" title="减少数量">-</a>
 						<input type="text" name="goods_number[{$data.id}]" id="goods_number_{$data.id}" value="0" size="3" style="text-align:center;border: 1px solid #b3b3b3;" onBlur="change_price({$data.id},{$data.id})" />
 						 <a href="javascript:;" class="btn_num" onClick="add_num({$data.id},{$data.id})" title="增加数量" >+</a>
                          </div>
@@ -233,7 +204,7 @@ function changePriceResponse(result){
 				</div>
 			</li>
 		</ul>
-		
+
 	</div>
 </div>
 
