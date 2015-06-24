@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:5:{i:0;s:49:"/workspace/yuehouse_mall/themes/meilele/index.dwt";i:1;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_header.lbi";i:2;s:64:"/workspace/yuehouse_mall/themes/meilele/library/cat_articles.lbi";i:3;s:61:"/workspace/yuehouse_mall/themes/meilele/library/cat_goods.lbi";i:4;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_footer.lbi";}s:7:"expires";i:1435136594;s:8:"maketime";i:1435132994;}<!DOCTYPE HTML>
+<?php exit;?>a:3:{s:8:"template";a:5:{i:0;s:49:"/workspace/yuehouse_mall/themes/meilele/index.dwt";i:1;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_header.lbi";i:2;s:64:"/workspace/yuehouse_mall/themes/meilele/library/cat_articles.lbi";i:3;s:61:"/workspace/yuehouse_mall/themes/meilele/library/cat_goods.lbi";i:4;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_footer.lbi";}s:7:"expires";i:1435132615;s:8:"maketime";i:1435129015;}<!DOCTYPE HTML>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -90,7 +90,7 @@ M.getCookie = function(a) {
       </tr>
     </table>
 	<script type="text/javascript">
-    
+
     <!--
     function checkSearchForm()
     {
@@ -105,7 +105,7 @@ M.getCookie = function(a) {
         }
     }
     -->
-    
+
     </script>
     <div class="btMap" >
       <div class="Left search_box">
@@ -253,14 +253,14 @@ function drop_cart_goods(id)
 																																				<li class="li addTopBorder"><a href="affiche.php?ad_id=75&uri=" target="_blank" title="首页-导航菜单-分类ID1-推荐品牌2" class="img"><img src="data/afficheimg/1385973862171596810.jpg" width="85" heiht="50" alt="" /></a><a class="name">韩菲尔</a></li>
 																																				<li class="li "><a href="affiche.php?ad_id=76&uri=" target="_blank" title="首页-导航菜单-分类ID1-推荐品牌3" class="img"><img src="data/afficheimg/1385973873999702874.jpg" width="85" heiht="50" alt="" /></a><a class="name">蒂美悦</a></li>
 																																				<li class="li "><a href="affiche.php?ad_id=77&uri=" target="_blank" title="首页-导航菜单-分类ID1-推荐品牌4" class="img"><img src="data/afficheimg/1385973884138818577.jpg" width="85" heiht="50" alt="" /></a><a class="name">卡富亚</a></li>
-																		
+
 									</ul>
 									<h1 class="f14 red mt20">促销活动</h1>
 									<ul class="activity">
 																		<li><a href="affiche.php?ad_id=147&uri=" target="_blank" title="新品家具，极速抢“鲜”">&bull;&ensp;&ensp;新品家具，极速抢“鲜”</a></li>
 																		<li><a href="affiche.php?ad_id=148&uri=" target="_blank" title="特价商品，抄底特卖专场!">&bull;&ensp;&ensp;特价商品，抄底特卖专场!</a></li>
 																		<li><a href="affiche.php?ad_id=149&uri=" target="_blank" title="热卖家具，火爆疯狂抢购!">&bull;&ensp;&ensp;热卖家具，火爆疯狂抢购!</a></li>
-									
+
 									</ul>
 								</div>
 						</div>
@@ -316,14 +316,14 @@ function drop_cart_goods(id)
 							<div class="bottomMap">
 								<h1 class="f14 red">推荐品牌</h1>
 									<ul class="brand clearfix">
-									
+
 									</ul>
 									<h1 class="f14 red mt20">促销活动</h1>
 									<ul class="activity">
 																		<li><a href="affiche.php?ad_id=147&uri=" target="_blank" title="新品家具，极速抢“鲜”">&bull;&ensp;&ensp;新品家具，极速抢“鲜”</a></li>
 																		<li><a href="affiche.php?ad_id=148&uri=" target="_blank" title="特价商品，抄底特卖专场!">&bull;&ensp;&ensp;特价商品，抄底特卖专场!</a></li>
 																		<li><a href="affiche.php?ad_id=149&uri=" target="_blank" title="热卖家具，火爆疯狂抢购!">&bull;&ensp;&ensp;热卖家具，火爆疯狂抢购!</a></li>
-									
+
 									</ul>
 								</div>
 						</div>
@@ -379,14 +379,14 @@ function drop_cart_goods(id)
 							<div class="bottomMap">
 								<h1 class="f14 red">推荐品牌</h1>
 									<ul class="brand clearfix">
-									
+
 									</ul>
 									<h1 class="f14 red mt20">促销活动</h1>
 									<ul class="activity">
 																		<li><a href="affiche.php?ad_id=147&uri=" target="_blank" title="新品家具，极速抢“鲜”">&bull;&ensp;&ensp;新品家具，极速抢“鲜”</a></li>
 																		<li><a href="affiche.php?ad_id=148&uri=" target="_blank" title="特价商品，抄底特卖专场!">&bull;&ensp;&ensp;特价商品，抄底特卖专场!</a></li>
 																		<li><a href="affiche.php?ad_id=149&uri=" target="_blank" title="热卖家具，火爆疯狂抢购!">&bull;&ensp;&ensp;热卖家具，火爆疯狂抢购!</a></li>
-									
+
 									</ul>
 								</div>
 						</div>
@@ -473,22 +473,22 @@ document.getElementById('globa_submenu').style.display = 'none';
   <div id="JS_slide_container" class="slide_stage">
     <table id="JS_side_stage" style="width:500%;">
       <tr>
-	  	 
-	 
+
+
         <td><div class="bg" style="background:url(/images/nav/1.jpg) 0 0 repeat-x;"><a href="http://item.taobao.com/item.htm?spm=2013.1.0.0.CA0lKp&id=40386589169" target="_blank" title="热卖家具，火爆疯狂抢购!" style="background:url(/data/afficheimg/20140809rkxztn.jpg) center center no-repeat;" data-bg="data/afficheimg/20140809rkxztn.jpg"></a></div></td>
-	  	 
-	 
+
+
         <td><div class="bg" style="background:url(/images/nav/2.jpg) 0 0 repeat-x;"><a href="http://item.taobao.com/item.htm?spm=2013.1.0.0.CA0lKp&id=40386589169" target="_blank" title="热卖家具，火爆疯狂抢购!" style="background:url(/images/loading.gif) center center no-repeat;" data-bg="data/afficheimg/20140809cvvkyp.jpg"></a></div></td>
-	  	 
-	 
+
+
         <td><div class="bg" style="background:url(/images/nav/3.jpg) 0 0 repeat-x;"><a href="http://item.taobao.com/item.htm?spm=2013.1.0.0.CA0lKp&id=40386589169" target="_blank" title="热卖家具，火爆疯狂抢购!" style="background:url(/images/loading.gif) center center no-repeat;" data-bg="data/afficheimg/20131127nxmrpn.jpg"></a></div></td>
-	  	 
-	 
+
+
         <td><div class="bg" style="background:url(/images/nav/4.jpg) 0 0 repeat-x;"><a href="http://item.taobao.com/item.htm?spm=2013.1.0.0.CA0lKp&id=40386589169" target="_blank" title="热卖家具，火爆疯狂抢购!" style="background:url(/images/loading.gif) center center no-repeat;" data-bg="data/afficheimg/20131127gkbftr.jpg"></a></div></td>
-	  	 
-	 
+
+
         <td><div class="bg" style="background:url(/images/nav/5.jpg) 0 0 repeat-x;"><a href="http://item.taobao.com/item.htm?spm=2013.1.0.0.CA0lKp&id=40386589169" target="_blank" title="热卖家具，火爆疯狂抢购!" style="background:url(/images/loading.gif) center center no-repeat;" data-bg="data/afficheimg/20131127znwuro.jpg"></a></div></td>
-	  	
+
       </tr>
     </table>
   </div>
@@ -506,7 +506,7 @@ document.getElementById('globa_submenu').style.display = 'none';
       <div id="JS_side_tab_body" class="body">
         <div class="show_news tBody current">
           <ul class="gg ">
-            
+
 <li><a href="article-62.html" title="悦家通告">悦家通告</a></li>
 <li><a href="article-63.html" title="悦家购买地址！">悦家购买地址！</a></li>
 <li><a href="article-24.html" title="第266家体验馆花落牡丹江！">第266家体验馆花落牡丹江！</a></li>
@@ -528,9 +528,9 @@ document.getElementById('globa_submenu').style.display = 'none';
   <div class="main Right">
     <div class="head clearfix">
 	<div class="Left"><strong><span class="red">悦家</span><span>在您身边</span></strong><span class="weekly">每周推荐</span></div>
-	  
+
 	    <div class="Right"> <a href="expr.php" target="_blank" title="查看全国体验馆" class="go"><i></i>查看全国体验馆</a> </div>
-      
+
     </div>
     <div class="header_bg clearfix"><i class="l_bg"></i><i class="r_bg"></i></div>
     <div class="body week_body">
@@ -554,7 +554,7 @@ document.getElementById('globa_submenu').style.display = 'none';
         <p class="info"><a href="goods-24.html" target="_blank" title="双人多功能按摩浴缸 亚克力浴缸 双裙边（左裙）浴缸">双人多功能按摩浴缸 亚克力浴缸 双裙...</a><br />
           本站价：<span class="yen red"></span><strong class="pr red">¥4999.00</strong></p>
       </div>
-      
+
     </div>
   </div>
 </div>
@@ -565,7 +565,7 @@ document.getElementById('globa_submenu').style.display = 'none';
     </div>
     <div class="body" id="JS_group_buy_body">
       <div class="box">
-        
+
         <table id="JS_groupBuy_stage">
           <tr>
             <td>
@@ -574,8 +574,8 @@ document.getElementById('globa_submenu').style.display = 'none';
                 <div class="Left"> <span>团购价:</span><span class="yen"></span><strong class="price">¥1800.00</strong> </div>
                 <div class="Right"><a href="group_buy-4.html" target="_blank" title="参团"></a></div>
               </div>
-			  
-			  
+
+
 			  </td>
           </tr>
         </table>
@@ -629,8 +629,8 @@ document.getElementById('globa_submenu').style.display = 'none';
               <div class="info"> <a href="goods-12.html" target="_blank" title="餐厅6件套（1餐桌+4餐椅+1餐边柜）">餐厅6件套（1餐桌+4餐椅+1餐边柜...</a><br />
                 抢购价：<span class="yen red"></span><strong class="pr red">¥5600.00</strong> </div>
             </div></td>
-			
-         
+
+
         </tr>
       </table>
     </div>
@@ -832,7 +832,7 @@ document.getElementById('globa_submenu').style.display = 'none';
 						  </dl>
 						  			</div>
 			<div style="clear:both"></div>
-	  
+
 	  </div>
 </div>
 <div class="w mt20 floor1 floor2 cat_floor">
@@ -848,10 +848,10 @@ document.getElementById('globa_submenu').style.display = 'none';
               <td><a href="affiche.php?ad_id=23&uri=" target="_blank" title="首页-分类ID1-中间广告3"><img src="/images/blank.gif" data-src2="/data/afficheimg/1385565325784594312.jpg" /></a></td>
             </tr>
     </table>
-    </span></span></span><a class="f_a_3" href="affiche.php?ad_id=24&uri=http://m2.i7c.com.cn/goods-2.html" target="_blank" title="首页-分类ID1-右侧广告"><img class="f_img_3" src="/images/blank.gif" data-src2="/data/afficheimg/1385565388950769615.jpg" /></a> 
-	
-	
-	
+    </span></span></span><a class="f_a_3" href="affiche.php?ad_id=24&uri=http://m2.i7c.com.cn/goods-2.html" target="_blank" title="首页-分类ID1-右侧广告"><img class="f_img_3" src="/images/blank.gif" data-src2="/data/afficheimg/1385565388950769615.jpg" /></a>
+
+
+
   <div class="main_new_cat">
   	<div class="cat_goods_list1">
 				 				  <dl>
@@ -912,10 +912,10 @@ document.getElementById('globa_submenu').style.display = 'none';
 				    	</div>
   	<div style="clear:both"></div>
   </div>
-  
-  
-	
-	
+
+
+
+
 	</div>
 </div>
 <div class="w mt20 floor1 floor2 cat_floor">
@@ -931,10 +931,10 @@ document.getElementById('globa_submenu').style.display = 'none';
               <td><a href="affiche.php?ad_id=82&uri=" target="_blank" title="首页-分类ID2-中间广告3"><img src="/images/blank.gif" data-src2="/data/afficheimg/1386081812051772280.jpg" /></a></td>
             </tr>
     </table>
-    </span></span></span><a class="f_a_3" href="affiche.php?ad_id=83&uri=" target="_blank" title="首页-分类ID2-右侧广告"><img class="f_img_3" src="/images/blank.gif" data-src2="/data/afficheimg/1386081835306877737.jpg" /></a> 
-	
-	
-	
+    </span></span></span><a class="f_a_3" href="affiche.php?ad_id=83&uri=" target="_blank" title="首页-分类ID2-右侧广告"><img class="f_img_3" src="/images/blank.gif" data-src2="/data/afficheimg/1386081835306877737.jpg" /></a>
+
+
+
   <div class="main_new_cat">
   	<div class="cat_goods_list1">
 				 				  <dl>
@@ -995,10 +995,10 @@ document.getElementById('globa_submenu').style.display = 'none';
 				    	</div>
   	<div style="clear:both"></div>
   </div>
-  
-  
-	
-	
+
+
+
+
 	</div>
 </div>
 <div class="w mt20 floor1 floor2 cat_floor">
@@ -1014,10 +1014,10 @@ document.getElementById('globa_submenu').style.display = 'none';
               <td><a href="affiche.php?ad_id=92&uri=" target="_blank" title="首页-分类ID3-中间广告3"><img src="/images/blank.gif" data-src2="/data/afficheimg/1386082196812000842.jpg" /></a></td>
             </tr>
     </table>
-    </span></span></span><a class="f_a_3" href="affiche.php?ad_id=93&uri=" target="_blank" title="首页-分类ID3-右侧广告"><img class="f_img_3" src="/images/blank.gif" data-src2="/data/afficheimg/1386082215676242714.jpg" /></a> 
-	
-	
-	
+    </span></span></span><a class="f_a_3" href="affiche.php?ad_id=93&uri=" target="_blank" title="首页-分类ID3-右侧广告"><img class="f_img_3" src="/images/blank.gif" data-src2="/data/afficheimg/1386082215676242714.jpg" /></a>
+
+
+
   <div class="main_new_cat">
   	<div class="cat_goods_list1">
 				 				  <dl>
@@ -1078,10 +1078,10 @@ document.getElementById('globa_submenu').style.display = 'none';
 				    	</div>
   	<div style="clear:both"></div>
   </div>
-  
-  
-	
-	
+
+
+
+
 	</div>
 </div>
 <script language="javascript">
@@ -1089,7 +1089,7 @@ $('.cat_floor').each(
 	function(i){
 	var index = i + 1;
 	$(this).addClass('floor2_'+index);
-	
+
 	}
 );
 </script>
@@ -1121,8 +1121,8 @@ $('.cat_floor').each(
       <div class="info"> <a href="goods-29.html" target="_blank" title="[唯萨] 花开富贵豪华宫廷不锈钢三开门蚊帐(1.5米床用）">[唯萨] 花开富贵豪华宫廷不锈钢三开...</a><br />
         特价：<span class="yen red"></span><strong class="pr red">¥148.00</strong> </div>
     </div>
-	 
-    
+
+
   </div>
 </div>
 <div class="w hotBrand">
@@ -1136,7 +1136,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567264349425711.jpg" width="85" height="50" /><br />
             凯撒豪庭</div>
         </div></td>
-	 	
+
 		      <td class="td_2"><div class="bd">
           <div class="bg"></div>
           <div class="text">韩菲尔<br />
@@ -1144,7 +1144,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567283471023198.jpg" width="85" height="50" /><br />
             韩菲尔</div>
         </div></td>
-	 	
+
 		      <td class="td_3"><div class="bd">
           <div class="bg"></div>
           <div class="text">蒂美悦<br />
@@ -1152,7 +1152,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567298962379604.jpg" width="85" height="50" /><br />
             蒂美悦</div>
         </div></td>
-	 	
+
 		      <td class="td_4"><div class="bd">
           <div class="bg"></div>
           <div class="text">卡富亚<br />
@@ -1160,7 +1160,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567321404680080.jpg" width="85" height="50" /><br />
             卡富亚</div>
         </div></td>
-	 	
+
 		      <td class="td_5"><div class="bd">
           <div class="bg"></div>
           <div class="text">青春城堡<br />
@@ -1168,7 +1168,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567338038094367.jpg" width="85" height="50" /><br />
             青春城堡</div>
         </div></td>
-	 	
+
 		      <td class="td_6"><div class="bd">
           <div class="bg"></div>
           <div class="text">林中鹰<br />
@@ -1176,7 +1176,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567354148399323.jpg" width="85" height="50" /><br />
             林中鹰</div>
         </div></td>
-	 	
+
 		      <td class="td_7"><div class="bd">
           <div class="bg"></div>
           <div class="text">TCL<br />
@@ -1184,25 +1184,25 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567377550016441.jpg" width="85" height="50" /><br />
             TCL</div>
         </div></td>
-	 	
-			
-			
-			
-			
-			
-			
-			
-		
-     
+
+
+
+
+
+
+
+
+
+
     </tr>
     <tr>
-    		
-			
-			
-			
-			
-			
-			
+
+
+
+
+
+
+
 		      <td class="td_8"><div class="bd">
           <div class="bg"></div>
           <div class="text">西门子<br />
@@ -1210,7 +1210,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567506769611793.jpg" width="85" height="50" /><br />
             西门子</div>
         </div></td>
-	 	
+
 		      <td class="td_9"><div class="bd">
           <div class="bg"></div>
           <div class="text">贝尔地板<br />
@@ -1218,7 +1218,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567523147726052.jpg" width="85" height="50" /><br />
             贝尔地板</div>
         </div></td>
-	 	
+
 		      <td class="td_10"><div class="bd">
           <div class="bg"></div>
           <div class="text">艾玛诗<br />
@@ -1226,7 +1226,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567539283904426.jpg" width="85" height="50" /><br />
             艾玛诗</div>
         </div></td>
-	 	
+
 		      <td class="td_11"><div class="bd">
           <div class="bg"></div>
           <div class="text">梦娜丝<br />
@@ -1234,7 +1234,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567557155880519.jpg" width="85" height="50" /><br />
             梦娜丝</div>
         </div></td>
-	 	
+
 		      <td class="td_12"><div class="bd">
           <div class="bg"></div>
           <div class="text">赛朵<br />
@@ -1242,7 +1242,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567570526008030.jpg" width="85" height="50" /><br />
             赛朵</div>
         </div></td>
-	 	
+
 		      <td class="td_13"><div class="bd">
           <div class="bg"></div>
           <div class="text">优曼家纺<br />
@@ -1250,7 +1250,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567592611729011.jpg" width="85" height="50" /><br />
             优曼家纺</div>
         </div></td>
-	 	
+
 		      <td class="td_14"><div class="bd">
           <div class="bg"></div>
           <div class="text">唯萨<br />
@@ -1258,7 +1258,7 @@ $('.cat_floor').each(
           <div class="img"><img src="/themes/meilele/images/blank.gif" data-src2="/data/afficheimg/1385567609421350373.jpg" width="85" height="50" /><br />
             唯萨</div>
         </div></td>
-	 	
+
 	    </tr>
   </table>
 </div>
@@ -1304,8 +1304,8 @@ $('.cat_floor').each(
                   <div class="img"><a href="article-25.html" target="_blank" title="【小苏的家】阳台改榻榻米，仅2.6w！五个月的装修长跑！"><img src="/themes/meilele/images/blank.gif" data-src2="/data/article/1385619509329401157.jpg" width="167" height="200" alt="【小苏的家】阳台改榻榻米，仅2.6w！五个月的装修长跑！" /></a></div>
                   <p class="txt">【小苏的家】阳台改榻榻米，仅2.6w！五个月的装修长跑！</p>
                 </div></td>
-			 	
-              
+
+
             </tr>
           </table>
         </div>
@@ -1475,7 +1475,7 @@ $('.cat_floor').each(
             <a href="goods.php?id=1" target="_blank" title="太精美了，跟想象中的样子差不多，等我收拾好了，也要来秀家！！！" style="color:#999">太精美了，跟想象中的样子差不多，等我收拾好了，也要来秀家！！...</a></div>
         </div>
 		      </div>
-		  
+
         </div>
         <div class="tabBody">
           <div class="notes clearfix">
@@ -1502,8 +1502,8 @@ $('.cat_floor').each(
   <div class="randomExpr">
     <div class="title"><strong><a href="javascript:;" target="_blank">554fcae493e564ee0dc75bdf2ebf94caarea_name|a:1:{s:4:"name";s:9:"area_name";}554fcae493e564ee0dc75bdf2ebf94ca体验馆</a></strong></div>
     <div class="body">
-	      
-      
+
+
     </div>
   </div>
 </div>
@@ -1536,7 +1536,7 @@ $('#expr_list .body').each(
 			                <a href="article-7.html" target="_blank">公司简介</a>
                             <a href="article-8.html" target="_blank">体验馆</a>
                             <a href="article-9.html" target="_blank">诚聘英才</a>
-              
+
 			  </dd>
             </dl></td>
 		<td><div class="line"></div></td>
@@ -1546,7 +1546,7 @@ $('#expr_list .body').each(
 			                <a href="article-10.html" target="_blank">注册新用户</a>
                             <a href="article-11.html" target="_blank">订购家具流程</a>
                             <a href="article-12.html" target="_blank">体验馆购买指导</a>
-              
+
 			  </dd>
             </dl></td>
 		<td><div class="line"></div></td>
@@ -1556,7 +1556,7 @@ $('#expr_list .body').each(
 			                <a href="article-13.html" target="_blank">收货指南</a>
                             <a href="article-14.html" target="_blank">体验馆服务费</a>
                             <a href="article-15.html" target="_blank">物流配送</a>
-              
+
 			  </dd>
             </dl></td>
 		<td><div class="line"></div></td>
@@ -1566,7 +1566,7 @@ $('#expr_list .body').each(
 			                <a href="article-16.html" target="_blank">45天无理由退换货</a>
                             <a href="article-17.html" target="_blank">如何申请退款</a>
                             <a href="article-18.html" target="_blank">维修补件说明</a>
-              
+
 			  </dd>
             </dl></td>
 		<td><div class="line"></div></td>
@@ -1576,11 +1576,11 @@ $('#expr_list .body').each(
 			                <a href="article-19.html" target="_blank">正品保证</a>
                             <a href="article-20.html" target="_blank">注册协议</a>
                             <a href="article-21.html" target="_blank">隐私保护</a>
-              
+
 			  </dd>
             </dl></td>
 		<td><div class="line"></div></td>
-		
+
         </tr>
       </table>
       <div class="weixin Right" style="width:140px;">
@@ -1605,7 +1605,7 @@ $('#expr_list .body').each(
     <a href="http://mll.i7c.com.cn" target="_blank" title="悦家网络">悦家网络</a>
     </div>
     <div class="w footer-copy">
-    <a href="#"  >商家入驻</a> |     <a href="#"  >家居图片</a> |     <a href="#"  >家居资讯</a> |     <a href="#"  >品牌大全</a> |     <a href="#"  >装修图片 </a> |     <a href="#"  >装修材料</a> |     <a href="#"  >家私导购</a> |     <a href="#"  >品牌展厅</a> |     <a href="#"  >客服中心</a> |     <a href="#"  >网站地图 </a>  
+    <a href="#"  >商家入驻</a> |     <a href="#"  >家居图片</a> |     <a href="#"  >家居资讯</a> |     <a href="#"  >品牌大全</a> |     <a href="#"  >装修图片 </a> |     <a href="#"  >装修材料</a> |     <a href="#"  >家私导购</a> |     <a href="#"  >品牌展厅</a> |     <a href="#"  >客服中心</a> |     <a href="#"  >网站地图 </a>
   <br />
     &copy; 2005-2015  版权所有，并保留所有权利。<br />
 	 <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5891729'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/stat.php%3Fid%3D5891729' type='text/javascript'%3E%3C/script%3E"));</script>
@@ -1615,7 +1615,7 @@ $('#expr_list .body').each(
                         <a href="http://amos1.taobao.com/msg.ww?v=2&uid=chinahcg%3A%E5%94%AE%E5%89%8D&s=2" target="_blank"><img src="http://amos1.taobao.com/online.ww?v=2&uid=chinahcg%3A%E5%94%AE%E5%89%8D&s=2" width="16" height="16" border="0" alt="淘宝旺旺" />chinahcg:售前</a>
                         <a href="http://amos1.taobao.com/msg.ww?v=2&uid=chinahcg%3A%E5%94%AE%E5%90%8E&s=2" target="_blank"><img src="http://amos1.taobao.com/online.ww?v=2&uid=chinahcg%3A%E5%94%AE%E5%90%8E&s=2" width="16" height="16" border="0" alt="淘宝旺旺" />chinahcg:售后</a>
                                                               <br />
-    
+
 	</div>
 </div>
 <script id="JS_city_data" type="text/html">{
@@ -2108,7 +2108,7 @@ function _COMMON_UNIX_TIME() {
 }
 _COMMON_UNIX_TIME();
 function getNewDealRecord() {
-	
+
 }
 function formatTime(i) {
 	if (!i) {
