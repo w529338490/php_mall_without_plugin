@@ -50,8 +50,8 @@ E_D("replace into `ecs_article` values('18','7','维修补件说明','','','',''
 E_D("replace into `ecs_article` values('19','8','正品保证','','','','','0','1','1385536952','','0','http://','','0','0');");
 E_D("replace into `ecs_article` values('20','8','注册协议','','','','','0','1','1385536960','','0','http://','','0','0');");
 E_D("replace into `ecs_article` values('21','8','隐私保护','','','','','0','1','1385536968','','0','http://','','0','0');");
-E_D("replace into `ecs_article` values('22','9','美乐乐第262家体验馆空降古都许','','','','','0','1','1385560416','','0','http://','','0','0');");
-E_D("replace into `ecs_article` values('23','9','中原大地再迎新馆！美乐乐第265','','','','','0','1','1385560443','','0','http://','','0','0');");
+E_D("replace into `ecs_article` values('22','9','悦家第262家体验馆空降古都许','','','','','0','1','1385560416','','0','http://','','0','0');");
+E_D("replace into `ecs_article` values('23','9','中原大地再迎新馆！悦家第265','','','','','0','1','1385560443','','0','http://','','0','0');");
 E_D("replace into `ecs_article` values('24','9','第266家体验馆花落牡丹江！','','','','','0','1','1385560453','','0','http://','','0','0');");
 E_D("replace into `ecs_article` values('25','10','【小苏的家】阳台改榻榻米，仅2.6w！五个月的装修长跑！','','','','','0','1','1385619509','data/article/1385619509329401157.jpg','1','http://','','0','0');");
 E_D("replace into `ecs_article` values('26','10','❤95㎡简约婚房❤拱形吊顶+欧式家具（基装+主材+家具清单','','','','','0','1','1385619526','data/article/1385619526838976334.jpg','1','http://','','0','0');");
@@ -77,8 +77,8 @@ E_D("replace into `ecs_article` values('58','12','秀家5','<img src=\"/includes
 E_D("replace into `ecs_article` values('59','12','秀家6','<img src=\"/includes/kindeditor/php/../../../images/upload/image/20131231/20131231085409_64755.jpg\" alt=\"\" /><img src=\"/includes/kindeditor/php/../../../images/upload/image/20131231/20131231085409_27295.jpg\" alt=\"\" />','test','','','0','1','1388480065','data/article/1388480065215572737.jpg','2','','','39','15');");
 E_D("replace into `ecs_article` values('60','12','秀家7','<img src=\"/includes/kindeditor/php/../../../images/upload/image/20131231/20131231085619_42901.jpg\" alt=\"\" /><img src=\"/includes/kindeditor/php/../../../images/upload/image/20131231/20131231085619_93430.jpg\" alt=\"\" />','test','','','0','1','1388480194','data/article/1388480194432497220.jpg','2','','','65','10');");
 E_D("replace into `ecs_article` values('61','12','秀家20','<img src=\"/includes/kindeditor/php/../../../images/upload/image/20140105/20140105044657_90436.jpg\" alt=\"\" /><img src=\"/includes/kindeditor/php/../../../images/upload/image/20140105/20140105044658_95536.jpg\" alt=\"\" /><br />','test','','','0','0','1388897234','data/article/1388897234107758516.jpg','2','','','2','3');");
-E_D("replace into `ecs_article` values('62','9','其才网络发布美乐乐第二版源码通告','','其才网络','','美乐乐源码 其才网络','1','1','1407322404','','0','http://www.i7c.com.cn/news/50.html','其才网络发布美乐乐第二版源码通告','0','0');");
-E_D("replace into `ecs_article` values('63','9','美乐乐第二版官方唯一购买地址！','','其才网络','','美乐乐第二版','0','1','1407322513','','0','http://item.taobao.com/item.htm?spm=a1z10.1.w4004-3302525826','美乐乐第二版官方唯一购买地址！','0','0');");
+E_D("replace into `ecs_article` values('62','9','待添加通告','','悦家网络','','待添加','1','1','1407322404','','0','http://www.i7c.com.cn/news/50.html','待添加通告','0','0');");
+E_D("replace into `ecs_article` values('63','9','待添加购买地址！','','待添加','','待第二版更新','0','1','1407322513','','0','http://item.taobao.com/item.htm?spm=a1z10.1.w4004-3302525826','待添加购买地址！','0','0');");
 
 require("../../inc/footer.php");
 ?>

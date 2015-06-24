@@ -94,7 +94,7 @@ $data = array (
   7 => 
   array (
     'cat_id' => '4',
-    'cat_name' => '关于美乐乐',
+    'cat_name' => '关于悦家',
     'cat_type' => '5',
     'keywords' => '',
     'cat_desc' => '',

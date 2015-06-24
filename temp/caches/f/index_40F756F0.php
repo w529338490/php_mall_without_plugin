@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:5:{i:0;s:49:"/workspace/yuehouse_mall/themes/meilele/index.dwt";i:1;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_header.lbi";i:2;s:64:"/workspace/yuehouse_mall/themes/meilele/library/cat_articles.lbi";i:3;s:61:"/workspace/yuehouse_mall/themes/meilele/library/cat_goods.lbi";i:4;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_footer.lbi";}s:7:"expires";i:1435120059;s:8:"maketime";i:1435116459;}<!DOCTYPE HTML>
+<?php exit;?>a:3:{s:8:"template";a:5:{i:0;s:49:"/workspace/yuehouse_mall/themes/meilele/index.dwt";i:1;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_header.lbi";i:2;s:64:"/workspace/yuehouse_mall/themes/meilele/library/cat_articles.lbi";i:3;s:61:"/workspace/yuehouse_mall/themes/meilele/library/cat_goods.lbi";i:4;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_footer.lbi";}s:7:"expires";i:1435136594;s:8:"maketime";i:1435132994;}<!DOCTYPE HTML>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
@@ -45,7 +45,7 @@ M.getCookie = function(a) {
 <div id="JS_n_header_top_banner" class="pageAD">
   <div class="closeX" onClick="$('#JS_n_header_top_banner').slideUp();">&times;</div>
   <div style="background:url(themes/meilele/images/topbg.jpg) 0 0 repeat-x">
-    <div class="w" style="text-align:center;">  <a href="affiche.php?ad_id=1&uri=" target="_blank" title="首页-顶部通栏广告"><img src="/data/afficheimg/1385551168024731458.jpg" alt="首页-顶部通栏广告" width="980" height="50" /></a>  </div>
+    <div class="w" style="text-align:center;">  <a href="affiche.php?ad_id=1&uri=" target="_blank" title="首页-顶部通栏广告"><img src="/data/afficheimg/1435113309613194935.png" alt="首页-顶部通栏广告" width="980" height="50" /></a>  </div>
   </div>
 </div>
 <div class="page-header" style="padding-bottom:5px">
@@ -60,7 +60,7 @@ M.getCookie = function(a) {
  <div class="topAd Left">
       <table>
       <tr>
-        <td><a href="affiche.php?ad_id=73&uri=" target="_blank" title=""><img src="data/afficheimg/1385972141450905269.gif" alt="" width="145" height="90" /></a></td>
+        <td><a href="affiche.php?ad_id=73&uri=" target="_blank" title=""><img src="data/afficheimg/1435112101836679997.jpg" alt="" width="145" height="90" /></a></td>
       </tr>
     </table>
 	  </div>
@@ -76,9 +76,9 @@ M.getCookie = function(a) {
         <td><div class="help" id="JS_common_head_help"> <a href="javascript:void(0);" class="link">帮助中心</a>
             <div class="hideMenu">
               <ul>
-                                <li><a href="#"  
+                                <li><a href="#"
                                     >购买流程</a></li>
-                                <li><a href="#"  
+                                <li><a href="#"
                                     >在线帮助</a></li>
                               </ul>
             </div>
@@ -86,8 +86,7 @@ M.getCookie = function(a) {
         <td><em class="line"></em></td>
         <td><a href="javascript:;" onClick="shoucang();">收藏本站</a></td>
         <td><em class="line"></em></td>
-        <td style="width:150px;"><div id="JS_head_scoll_phone_527" style="width:150px;height:24px;overflow:hidden;position:relative"><span>源码购买：</span><span class="hotLine">QQ249699062</span></div></td>
-        <td><a href="http://weibo.com/suqiannet" target="_blank" title="其才网络微博" class="sinaLink"></a></td>
+        <td style="width:150px;"><div id="JS_head_scoll_phone_527" style="width:150px;height:24px;overflow:hidden;position:relative"></div></td>
       </tr>
     </table>
 	<script type="text/javascript">
@@ -108,7 +107,6 @@ M.getCookie = function(a) {
     -->
     
     </script>
-	
     <div class="btMap" >
       <div class="Left search_box">
         <div class="search">
@@ -120,13 +118,13 @@ M.getCookie = function(a) {
           </form>
           <div style="display: none;" id="JS_search_suggest" class="suggest"> </div>
         </div>
-        <div style="margin-top:5px;color:#999;width:416px;height:14px;overflow:hidden;"> 热门搜索： 
-           <a href="search.php?keywords=%E5%B8%83%E8%89%BA%E6%B2%99%E5%8F%91" style="color:#999;">布艺沙发</a>&ensp; 
-           <a href="search.php?keywords=%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%BA%8A" style="color:#999;">多功能床</a>&ensp; 
-           <a href="search.php?keywords=%E5%84%BF%E7%AB%A5%E5%BA%8A" style="color:#999;">儿童床</a>&ensp; 
-           <a href="search.php?keywords=%E9%A4%90%E6%A1%8C%E6%A4%85" style="color:#999;">餐桌椅</a>&ensp; 
-           <a href="search.php?keywords=%E5%AE%B6%E7%94%A8%E4%B9%A6%E6%A1%8C" style="color:#999;">家用书桌</a>&ensp; 
-           <a href="search.php?keywords=%E5%90%B8%E9%A1%B6%E7%81%AF" style="color:#999;">吸顶灯</a>&ensp; 
+        <div style="margin-top:5px;color:#999;width:416px;height:14px;overflow:hidden;"> 热门搜索：
+           <a href="search.php?keywords=%E5%B8%83%E8%89%BA%E6%B2%99%E5%8F%91" style="color:#999;">布艺沙发</a>&ensp;
+           <a href="search.php?keywords=%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%BA%8A" style="color:#999;">多功能床</a>&ensp;
+           <a href="search.php?keywords=%E5%84%BF%E7%AB%A5%E5%BA%8A" style="color:#999;">儿童床</a>&ensp;
+           <a href="search.php?keywords=%E9%A4%90%E6%A1%8C%E6%A4%85" style="color:#999;">餐桌椅</a>&ensp;
+           <a href="search.php?keywords=%E5%AE%B6%E7%94%A8%E4%B9%A6%E6%A1%8C" style="color:#999;">家用书桌</a>&ensp;
+           <a href="search.php?keywords=%E5%90%B8%E9%A1%B6%E7%81%AF" style="color:#999;">吸顶灯</a>&ensp;
            </div>
       </div>
       <div id="JS_header_cart_handler" class="cart Right"> <a href="flow.php" class="cartLink"><span class="">购物车</span><strong class="red cartCount" id="cartInfo_number">554fcae493e564ee0dc75bdf2ebf94cacart_count|a:1:{s:4:"name";s:10:"cart_count";}554fcae493e564ee0dc75bdf2ebf94ca</strong><span>件</span><span class="arrow"></span></a>
@@ -135,8 +133,6 @@ M.getCookie = function(a) {
       </div>
       <div class="cart Right mymll"> <a href="user.php" class="cartLink"><span class="">我的中心</span></a> </div>
     </div>
-	
-	
   </div>
 </div>
 <script language="javascript">
@@ -161,7 +157,7 @@ function drop_cart_goods(id)
     <div class="allGoodsCat Left" id="JS_common_head_menu_812" class="hover"> <a href="javascript:;" class="menuEvent"><strong class="catName">全部商品分类</strong><span class="arrow"></span></a>
       <div class="expandMenu" id="JS_head_expand_menu_target"></div>
     </div>
-    <div class="allMenu Left"> <a id="JS_Header_Home_Link" href="/" title="首页" class="index current">首页</a><a href="category-1-b0.html"   style="position:relative;">家具城</a><a href="category-2-b0.html"   style="position:relative;">建材城</a><a href="brand.html"   style="position:relative;">品牌中心</a><a href="group_buy.html"   style="position:relative;">团购<img src="themes/meilele/images/new4.gif" style="position:absolute;background:none;right:0px;top:-5px;" /></a><a href="topic.php?topic_id=1"   style="position:relative;">促销<img src="themes/meilele/images/hot.gif" style="position:absolute;background:none;right:0px;top:-5px;" /></a><a href="article_cat-11.html"   style="position:relative;">家居资讯</a><a href="http://item.taobao.com/item.htm?spm=2013.1.0.0.CA0lKp&id=40386589169" target="_blank"   style="position:relative;">源码购买</a> </div>
+    <div class="allMenu Left"> <a id="JS_Header_Home_Link" href="/" title="首页" class="index current">首页</a><a href="category-1-b0.html"   style="position:relative;">家具城</a><a href="category-2-b0.html"   style="position:relative;">建材城</a><a href="brand.html"   style="position:relative;">品牌中心</a><a href="group_buy.html"   style="position:relative;">团购<img src="themes/meilele/images/new4.gif" style="position:absolute;background:none;right:0px;top:-5px;" /></a><a href="topic.php?topic_id=1"   style="position:relative;">促销<img src="themes/meilele/images/hot.gif" style="position:absolute;background:none;right:0px;top:-5px;" /></a><a href="article_cat-11.html"   style="position:relative;">家居资讯</a> </div>
     <div class="sideMenu2 Right"><a class="menu" href="xspace.html" title="">秀家</a><a class="menu" href="auction.php" target="_blank" title="">拍卖</a></div>
   </div>
 </div>
@@ -193,74 +189,60 @@ function drop_cart_goods(id)
 						<div class="topMap clearfix">
 							<div class="subCat clearfix">
 								<div class="col">
-										
-									<dl class="item no_border">
+																		<dl class="item no_border">
 										<dt class="dt"><a href="category-4-b0.html" class="red">卧室</a></dt>
 										<dd class="dd">
 																					<span>|&ensp;<a href="category-23-b0.html">床</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-24-b0.html">床垫</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-25-b0.html">床头柜</a>&ensp;</span>
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-5-b0.html" class="red">客厅</a></dt>
 										<dd class="dd">
 																					<span>|&ensp;<a href="category-26-b0.html">沙发</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-27-b0.html">茶几/边桌</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-28-b0.html">电视柜</a>&ensp;</span>
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-6-b0.html" class="red">餐厅</a></dt>
 										<dd class="dd">
 																					<span>|&ensp;<a href="category-29-b0.html">餐桌</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-30-b0.html">餐椅</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-31-b0.html">餐边柜</a>&ensp;</span>
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-7-b0.html" class="red">书房</a></dt>
 										<dd class="dd">
 																					<span>|&ensp;<a href="category-32-b0.html">书桌/工作台</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-33-b0.html">书柜/书架</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-34-b0.html">书椅/转椅</a>&ensp;</span>
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-8-b0.html" class="red">儿童房</a></dt>
 										<dd class="dd">
 																					<span>|&ensp;<a href="category-35-b0.html">儿童床</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-36-b0.html">儿童床头柜</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-37-b0.html">儿童衣柜</a>&ensp;</span>
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-9-b0.html" class="red">户外家具</a></dt>
 										<dd class="dd">
 																					<span>|&ensp;<a href="category-38-b0.html">吊篮/吊椅</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-39-b0.html">休闲桌</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-40-b0.html">休闲椅</a>&ensp;</span>
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-10-b0.html" class="red">定制家具</a></dt>
 										<dd class="dd">
 																					<span>|&ensp;<a href="category-41-b0.html">定制橱柜</a>&ensp;</span>
 																					<span>|&ensp;<a href="category-42-b0.html">定制书柜/书台</a>&ensp;</span>
-																	
-										</dd>
+																				</dd>
 									</dl>
 																	</div>
 							</div>
@@ -271,14 +253,14 @@ function drop_cart_goods(id)
 																																				<li class="li addTopBorder"><a href="affiche.php?ad_id=75&uri=" target="_blank" title="首页-导航菜单-分类ID1-推荐品牌2" class="img"><img src="data/afficheimg/1385973862171596810.jpg" width="85" heiht="50" alt="" /></a><a class="name">韩菲尔</a></li>
 																																				<li class="li "><a href="affiche.php?ad_id=76&uri=" target="_blank" title="首页-导航菜单-分类ID1-推荐品牌3" class="img"><img src="data/afficheimg/1385973873999702874.jpg" width="85" heiht="50" alt="" /></a><a class="name">蒂美悦</a></li>
 																																				<li class="li "><a href="affiche.php?ad_id=77&uri=" target="_blank" title="首页-导航菜单-分类ID1-推荐品牌4" class="img"><img src="data/afficheimg/1385973884138818577.jpg" width="85" heiht="50" alt="" /></a><a class="name">卡富亚</a></li>
-																											
+																		
 									</ul>
 									<h1 class="f14 red mt20">促销活动</h1>
 									<ul class="activity">
 																		<li><a href="affiche.php?ad_id=147&uri=" target="_blank" title="新品家具，极速抢“鲜”">&bull;&ensp;&ensp;新品家具，极速抢“鲜”</a></li>
 																		<li><a href="affiche.php?ad_id=148&uri=" target="_blank" title="特价商品，抄底特卖专场!">&bull;&ensp;&ensp;特价商品，抄底特卖专场!</a></li>
 																		<li><a href="affiche.php?ad_id=149&uri=" target="_blank" title="热卖家具，火爆疯狂抢购!">&bull;&ensp;&ensp;热卖家具，火爆疯狂抢购!</a></li>
-																		
+									
 									</ul>
 								</div>
 						</div>
@@ -299,61 +281,49 @@ function drop_cart_goods(id)
 						<div class="topMap clearfix">
 							<div class="subCat clearfix">
 								<div class="col">
-										
-									<dl class="item no_border">
+																		<dl class="item no_border">
 										<dt class="dt"><a href="category-11-b0.html" class="red">灯饰照明</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-12-b0.html" class="red">厨房用品</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-13-b0.html" class="red">卫浴用品</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-14-b0.html" class="red">五金电器</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-15-b0.html" class="red">墙地面</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-16-b0.html" class="red">五金工具</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
 																	</div>
 							</div>
 							<div class="bottomMap">
 								<h1 class="f14 red">推荐品牌</h1>
 									<ul class="brand clearfix">
-																		
+									
 									</ul>
 									<h1 class="f14 red mt20">促销活动</h1>
 									<ul class="activity">
 																		<li><a href="affiche.php?ad_id=147&uri=" target="_blank" title="新品家具，极速抢“鲜”">&bull;&ensp;&ensp;新品家具，极速抢“鲜”</a></li>
 																		<li><a href="affiche.php?ad_id=148&uri=" target="_blank" title="特价商品，抄底特卖专场!">&bull;&ensp;&ensp;特价商品，抄底特卖专场!</a></li>
 																		<li><a href="affiche.php?ad_id=149&uri=" target="_blank" title="热卖家具，火爆疯狂抢购!">&bull;&ensp;&ensp;热卖家具，火爆疯狂抢购!</a></li>
-																		
+									
 									</ul>
 								</div>
 						</div>
@@ -374,68 +344,55 @@ function drop_cart_goods(id)
 						<div class="topMap clearfix">
 							<div class="subCat clearfix">
 								<div class="col">
-										
-									<dl class="item no_border">
+																		<dl class="item no_border">
 										<dt class="dt"><a href="category-17-b0.html" class="red">床上用品</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-18-b0.html" class="red">居家日用</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-19-b0.html" class="red">布艺织物</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-20-b0.html" class="red">家居饰品</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-21-b0.html" class="red">厨房餐饮</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
-										
-									<dl class="item ">
+																		<dl class="item ">
 										<dt class="dt"><a href="category-22-b0.html" class="red">生活电器</a></dt>
 										<dd class="dd">
-																	
-										</dd>
+																				</dd>
 									</dl>
 																	</div>
 							</div>
 							<div class="bottomMap">
 								<h1 class="f14 red">推荐品牌</h1>
 									<ul class="brand clearfix">
-																		
+									
 									</ul>
 									<h1 class="f14 red mt20">促销活动</h1>
 									<ul class="activity">
 																		<li><a href="affiche.php?ad_id=147&uri=" target="_blank" title="新品家具，极速抢“鲜”">&bull;&ensp;&ensp;新品家具，极速抢“鲜”</a></li>
 																		<li><a href="affiche.php?ad_id=148&uri=" target="_blank" title="特价商品，抄底特卖专场!">&bull;&ensp;&ensp;特价商品，抄底特卖专场!</a></li>
 																		<li><a href="affiche.php?ad_id=149&uri=" target="_blank" title="热卖家具，火爆疯狂抢购!">&bull;&ensp;&ensp;热卖家具，火爆疯狂抢购!</a></li>
-																		
+									
 									</ul>
 								</div>
 						</div>
 				</div>
 		    </div>
-				
-		<div class="hotMenu">
+				<div class="hotMenu">
 		  <table>
 			<tr>
 			  <td><strong>热荐</strong> </td>
@@ -463,7 +420,6 @@ _onReadyList.push( function(){
 						var hot = '<a href="china.html" class="site_all Left" onclick="$.goExpr(\'china.html\',\'\',\'\',\'全国\');return !1;"><strong>全国</strong></a>&nbsp;';
 						var inner = '';
 						var charList = '';
-						
 						$.each(json.city_list, function(key,item){
 							charList += '<a href="javascript:;">'+key+'</a>';
 							out += '<tr><th><div>'+key+'</div></th><td>';
@@ -478,7 +434,6 @@ _onReadyList.push( function(){
 						dom.find('#JS_header_city_hot').html( hot );
 						dom.find('#JS_header_city_char').html( charList );
 						dom.find('#JS_header_city_list').html( out );
-						
 						return dom;
 					}
 				}});
@@ -505,7 +460,6 @@ _onReadyList.push( function(){
 	$('#JS_head_expand_menu_target').on('mouseleave','div.JS_catItem',function(){
 		_hide_(this);
 	});
-	
 	$('#JS_MLL_search_header_input').focus(function(){
 		$.searchKey( 'JS_MLL_search_header_input', 'JS_search_suggest' );
 		$('#JS_MLL_search_header_input').unbind('focus');
@@ -545,7 +499,7 @@ document.getElementById('globa_submenu').style.display = 'none';
 <div class="w no_subject clearfix">
   <div class="side Left">
     <div class="ad">
-		<a href="affiche.php?ad_id=2&uri=" target="_blank" title="首页-网站公告顶部广告"><img data-src2="/data/afficheimg/1407224949631407950.jpg" src="/themes/meilele/images/blank.gif" width="228" height="102" alt="首页-网站公告顶部广告" /></a>
+		<a href="affiche.php?ad_id=2&uri=" target="_blank" title="首页-网站公告顶部广告"><img data-src2="/data/afficheimg/1435113919835881571.jpg" src="/themes/meilele/images/blank.gif" width="228" height="102" alt="首页-网站公告顶部广告" /></a>
 		</div>
     <div class="tab mt10">
       <div id="JS_side_tab_nav" class="head"><a href="javascript:;" class="first current">网站公告</a><a href="javascript:;">订单状态查询</a></div>
@@ -553,11 +507,11 @@ document.getElementById('globa_submenu').style.display = 'none';
         <div class="show_news tBody current">
           <ul class="gg ">
             
-<li><a href="article-62.html" title="其才网络发布美乐乐第二版源码通告">其才网络发布美乐乐第二版源码通告</a></li>
-<li><a href="article-63.html" title="美乐乐第二版官方唯一购买地址！">美乐乐第二版官方唯一购买地址！</a></li>
+<li><a href="article-62.html" title="悦家通告">悦家通告</a></li>
+<li><a href="article-63.html" title="悦家购买地址！">悦家购买地址！</a></li>
 <li><a href="article-24.html" title="第266家体验馆花落牡丹江！">第266家体验馆花落牡丹江！</a></li>
-<li><a href="article-23.html" title="中原大地再迎新馆！美乐乐第265">中原大地再迎新馆！美乐乐第265</a></li>
-<li><a href="article-22.html" title="美乐乐第262家体验馆空降古都许">美乐乐第262家体验馆空降古都许</a></li>
+<li><a href="article-23.html" title="中原大地再迎新馆！悦家第265">中原大地再迎新馆！悦家第265</a></li>
+<li><a href="article-22.html" title="悦家第262家体验馆空降古都许">悦家第262家体验馆空降古都许</a></li>
           </ul>
         </div>
         <div class="tBody query">
@@ -573,7 +527,7 @@ document.getElementById('globa_submenu').style.display = 'none';
   </div>
   <div class="main Right">
     <div class="head clearfix">
-	<div class="Left"><strong><span class="red">美乐乐</span><span>在您身边</span></strong><span class="weekly">每周推荐</span></div>
+	<div class="Left"><strong><span class="red">悦家</span><span>在您身边</span></strong><span class="weekly">每周推荐</span></div>
 	  
 	    <div class="Right"> <a href="expr.php" target="_blank" title="查看全国体验馆" class="go"><i></i>查看全国体验馆</a> </div>
       
@@ -1570,76 +1524,69 @@ $('#expr_list .body').each(
           <h4>24小时客服热线</h4>
           <p>QQ249699062</p>
         </div>
-        <div class="count">截止今日，美乐乐在全国已有实体店<strong class="red">0</strong>家</div>
-        <a class="look" href="expr.php" target="_blank" title="查看全国实体店">查看全国实体店</a> 
-		
+        <div class="count">截止今日，悦家在全国已有实体店<strong class="red">0</strong>家</div>
+        <a class="look" href="expr.php" target="_blank" title="查看全国实体店">查看全国实体店</a>
 		</div>
       <table cellspacing="0" cellpadding="0" class="dtab Left clearfix">
         <tr>
 		<td><div class="line"></div></td>
 		          <td><dl class="dl">
-              <dt class="dt">关于美乐乐</dt>
-              <dd class="dd"> 
+              <dt class="dt">关于悦家</dt>
+              <dd class="dd">
 			                <a href="article-7.html" target="_blank">公司简介</a>
                             <a href="article-8.html" target="_blank">体验馆</a>
                             <a href="article-9.html" target="_blank">诚聘英才</a>
-               
-			  
+              
 			  </dd>
             </dl></td>
-		<td><div class="line"></div></td>	
+		<td><div class="line"></div></td>
 		          <td><dl class="dl">
               <dt class="dt">新手指南</dt>
-              <dd class="dd"> 
+              <dd class="dd">
 			                <a href="article-10.html" target="_blank">注册新用户</a>
                             <a href="article-11.html" target="_blank">订购家具流程</a>
                             <a href="article-12.html" target="_blank">体验馆购买指导</a>
-               
-			  
+              
 			  </dd>
             </dl></td>
-		<td><div class="line"></div></td>	
+		<td><div class="line"></div></td>
 		          <td><dl class="dl">
               <dt class="dt">配送安装</dt>
-              <dd class="dd"> 
+              <dd class="dd">
 			                <a href="article-13.html" target="_blank">收货指南</a>
                             <a href="article-14.html" target="_blank">体验馆服务费</a>
                             <a href="article-15.html" target="_blank">物流配送</a>
-               
-			  
+              
 			  </dd>
             </dl></td>
-		<td><div class="line"></div></td>	
+		<td><div class="line"></div></td>
 		          <td><dl class="dl">
               <dt class="dt">售后服务</dt>
-              <dd class="dd"> 
+              <dd class="dd">
 			                <a href="article-16.html" target="_blank">45天无理由退换货</a>
                             <a href="article-17.html" target="_blank">如何申请退款</a>
                             <a href="article-18.html" target="_blank">维修补件说明</a>
-               
-			  
+              
 			  </dd>
             </dl></td>
-		<td><div class="line"></div></td>	
+		<td><div class="line"></div></td>
 		          <td><dl class="dl">
               <dt class="dt">购物保障</dt>
-              <dd class="dd"> 
+              <dd class="dd">
 			                <a href="article-19.html" target="_blank">正品保证</a>
                             <a href="article-20.html" target="_blank">注册协议</a>
                             <a href="article-21.html" target="_blank">隐私保护</a>
-               
-			  
+              
 			  </dd>
             </dl></td>
-		<td><div class="line"></div></td>	
-			
-          
+		<td><div class="line"></div></td>
+		
         </tr>
       </table>
       <div class="weixin Right" style="width:140px;">
-        <h2 class="title">其才网络正版源码</h2>
-        <div class="img"><a target="_blank"><img src="themes/meilele/images/blank.gif" width="100" height="100" /></a></div>
-        <p>手机扫一扫,购正版源码!</p>
+        <h2 class="title">悦家APP</h2>
+        <div class="img"><a target="_blank"><img src="themes/meilele/images/yuehouse_app_er_wei_ma.png" width="100" height="100" /></a></div>
+        <p>手机扫一扫,下载悦家APP!</p>
       </div>
     </div>
   </div>
@@ -1653,14 +1600,14 @@ $('#expr_list .body').each(
 	</div>
   </div>
     <div id="JS_ship_link" class="w footer-link"><strong>友情链接：</strong>
-    <a href="http://suqiannet.taobao.com/" target="_blank" title="其才网络淘宝店">其才网络淘宝店</a>
-    <a href="http://www.i7c.com.cn" target="_blank" title="其才网络">其才网络</a>
-    <a href="http://mll.i7c.com.cn" target="_blank" title="美乐乐源码">美乐乐源码</a>
+    <a href="http://suqiannet.taobao.com/" target="_blank" title="悦家网络淘宝店">悦家网络淘宝店</a>
+    <a href="http://www.i7c.com.cn" target="_blank" title="悦家网络">悦家网络</a>
+    <a href="http://mll.i7c.com.cn" target="_blank" title="悦家网络">悦家网络</a>
     </div>
-    <div class="w footer-copy"> 
-    <a href="#"  >商家入驻</a> |     <a href="#"  >家居图片</a> |     <a href="#"  >家居资讯</a> |     <a href="#"  >品牌大全</a> |     <a href="#"  >装修图片 </a> |     <a href="#"  >装修材料</a> |     <a href="#"  >家私导购</a> |     <a href="#"  >品牌展厅</a> |     <a href="#"  >客服中心</a> |     <a href="#"  >网站地图 </a>    
+    <div class="w footer-copy">
+    <a href="#"  >商家入驻</a> |     <a href="#"  >家居图片</a> |     <a href="#"  >家居资讯</a> |     <a href="#"  >品牌大全</a> |     <a href="#"  >装修图片 </a> |     <a href="#"  >装修材料</a> |     <a href="#"  >家私导购</a> |     <a href="#"  >品牌展厅</a> |     <a href="#"  >客服中心</a> |     <a href="#"  >网站地图 </a>  
   <br />
-    &copy; 2005-2015 美乐乐源码 版权所有，并保留所有权利。<br />
+    &copy; 2005-2015  版权所有，并保留所有权利。<br />
 	 <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_5891729'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "v1.cnzz.com/stat.php%3Fid%3D5891729' type='text/javascript'%3E%3C/script%3E"));</script>
        Tel: 0527-82862887        E-mail: 249699062@qq.com<br />
               <a href="http://wpa.qq.com/msgrd?V=1&amp;uin=249699062&amp;Site=美乐乐源码&amp;Menu=yes" target="_blank"><img src="http://wpa.qq.com/pa?p=1:249699062:4" height="16" border="0" alt="QQ" /> 249699062</a>
@@ -1668,7 +1615,7 @@ $('#expr_list .body').each(
                         <a href="http://amos1.taobao.com/msg.ww?v=2&uid=chinahcg%3A%E5%94%AE%E5%89%8D&s=2" target="_blank"><img src="http://amos1.taobao.com/online.ww?v=2&uid=chinahcg%3A%E5%94%AE%E5%89%8D&s=2" width="16" height="16" border="0" alt="淘宝旺旺" />chinahcg:售前</a>
                         <a href="http://amos1.taobao.com/msg.ww?v=2&uid=chinahcg%3A%E5%94%AE%E5%90%8E&s=2" target="_blank"><img src="http://amos1.taobao.com/online.ww?v=2&uid=chinahcg%3A%E5%94%AE%E5%90%8E&s=2" width="16" height="16" border="0" alt="淘宝旺旺" />chinahcg:售后</a>
                                                               <br />
-      
+    
 	</div>
 </div>
 <script id="JS_city_data" type="text/html">{
@@ -1679,11 +1626,9 @@ $('#expr_list .body').each(
 			<div class="Left mycity">
 				<div id="JS_current_city_box">
 					当前城市：<strong id="JS_city_current_city"></strong>
-					
 				</div>
 				<div id="JS_default_city_delete" style="dsiplay:none"></div>
 			</div>
-			
 		</div>
 		<div class="showPanel showPanel2 clearfix">
 			<div class="hot_city" id="JS_header_city_hot"></div>
@@ -1707,8 +1652,6 @@ $.__IMG = '' || '';
 </script>
 <script type="text/javascript">
 (function(c, b) {
-	
-	
 })(document, jQuery);
 function _INIT_HEAD_SEARCH(data) {
 	var json;
@@ -1808,7 +1751,6 @@ function _show_(j, d) {
 			l.isDone = true;
 		}
 	}
-	
 	$(j).addClass("hover");
 	if (d && d.isLazyLoad && j.isDone) {
 		var g = j.find("img");
@@ -1847,31 +1789,23 @@ function shoucang() {
 }
 var car_number = 0;
 function DY_cart_detail_nav_cb(b) {
-	
 }
 var Cart = {};
 Cart.handdler = $("#JS_header_cart_handler");
 Cart.Dom = $("#JS_header_cart_list");
 Cart.show = function() {
-	
 	Cart.handdler.addClass("hover");
 };
 Cart.hide = function() {
 	Cart.handdler.removeClass("hover");
 };
 Cart.del = function(g) {
-	
-	
 };
 Cart.formatData = function(e) {
-	
 };
 Cart.goPreCheckOut = function() {
-	
 };
 function exprCallBackNum(json) {
-	
-	
 }
 $("#JS_header_cart_handler").hover(Cart.show, Cart.hide);
 /*GH:2013-11-18 18:25:14*/</script>
@@ -2121,7 +2055,6 @@ function subscribe(){
 		$.alert("您输入的邮箱地址不合法！");
 		return;
 	}
-	
 	$.ajax({
 					type:"GET",
 					url:'user.php?act=email_list&job=add&email=' + em,
@@ -2130,8 +2063,6 @@ function subscribe(){
 					data:'',
 					success:rep_add_email_list
 				});
-	
-	
 }
 function rep_add_email_list(text)
 {

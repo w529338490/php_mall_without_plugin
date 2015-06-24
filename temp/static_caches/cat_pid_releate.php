@@ -2,19 +2,6 @@
 $data = array (
   0 => 
   array (
-    'cat_id' => '1',
-    'cat_name' => '家具',
-    'measure_unit' => '',
-    'parent_id' => '0',
-    'is_show' => '1',
-    'show_in_nav' => '1',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '7',
-    'goods_num' => 0,
-  ),
-  1 => 
-  array (
     'cat_id' => '2',
     'cat_name' => '建材城',
     'measure_unit' => '',
@@ -26,7 +13,7 @@ $data = array (
     'has_children' => '6',
     'goods_num' => 0,
   ),
-  2 => 
+  1 => 
   array (
     'cat_id' => '3',
     'cat_name' => '家居家饰',
@@ -39,46 +26,20 @@ $data = array (
     'has_children' => '6',
     'goods_num' => '1',
   ),
+  2 => 
+  array (
+    'cat_id' => '1',
+    'cat_name' => '家具',
+    'measure_unit' => '',
+    'parent_id' => '0',
+    'is_show' => '1',
+    'show_in_nav' => '1',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '7',
+    'goods_num' => 0,
+  ),
   3 => 
-  array (
-    'cat_id' => '10',
-    'cat_name' => '定制家具',
-    'measure_unit' => '',
-    'parent_id' => '1',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '2',
-    'goods_num' => 0,
-  ),
-  4 => 
-  array (
-    'cat_id' => '7',
-    'cat_name' => '书房',
-    'measure_unit' => '',
-    'parent_id' => '1',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '3',
-    'goods_num' => 0,
-  ),
-  5 => 
-  array (
-    'cat_id' => '4',
-    'cat_name' => '卧室',
-    'measure_unit' => '',
-    'parent_id' => '1',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '5',
-    'sort_order' => '50',
-    'has_children' => '3',
-    'goods_num' => 0,
-  ),
-  6 => 
   array (
     'cat_id' => '8',
     'cat_name' => '儿童房',
@@ -91,7 +52,7 @@ $data = array (
     'has_children' => '3',
     'goods_num' => 0,
   ),
-  7 => 
+  4 => 
   array (
     'cat_id' => '5',
     'cat_name' => '客厅',
@@ -104,7 +65,7 @@ $data = array (
     'has_children' => '3',
     'goods_num' => 0,
   ),
-  8 => 
+  5 => 
   array (
     'cat_id' => '9',
     'cat_name' => '户外家具',
@@ -117,7 +78,7 @@ $data = array (
     'has_children' => '3',
     'goods_num' => 0,
   ),
-  9 => 
+  6 => 
   array (
     'cat_id' => '6',
     'cat_name' => '餐厅',
@@ -130,46 +91,46 @@ $data = array (
     'has_children' => '3',
     'goods_num' => 0,
   ),
-  10 => 
+  7 => 
   array (
-    'cat_id' => '13',
-    'cat_name' => '卫浴用品',
+    'cat_id' => '10',
+    'cat_name' => '定制家具',
     'measure_unit' => '',
-    'parent_id' => '2',
+    'parent_id' => '1',
     'is_show' => '1',
     'show_in_nav' => '0',
     'grade' => '0',
     'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '4',
-  ),
-  11 => 
-  array (
-    'cat_id' => '14',
-    'cat_name' => '五金电器',
-    'measure_unit' => '',
-    'parent_id' => '2',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
+    'has_children' => '2',
     'goods_num' => 0,
   ),
-  12 => 
+  8 => 
   array (
-    'cat_id' => '11',
-    'cat_name' => '灯饰照明',
+    'cat_id' => '7',
+    'cat_name' => '书房',
     'measure_unit' => '',
-    'parent_id' => '2',
+    'parent_id' => '1',
     'is_show' => '1',
     'show_in_nav' => '0',
     'grade' => '0',
     'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '4',
+    'has_children' => '3',
+    'goods_num' => 0,
   ),
-  13 => 
+  9 => 
+  array (
+    'cat_id' => '4',
+    'cat_name' => '卧室',
+    'measure_unit' => '',
+    'parent_id' => '1',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '5',
+    'sort_order' => '50',
+    'has_children' => '3',
+    'goods_num' => 0,
+  ),
+  10 => 
   array (
     'cat_id' => '15',
     'cat_name' => '墙地面',
@@ -182,7 +143,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  14 => 
+  11 => 
   array (
     'cat_id' => '12',
     'cat_name' => '厨房用品',
@@ -195,7 +156,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => '4',
   ),
-  15 => 
+  12 => 
   array (
     'cat_id' => '16',
     'cat_name' => '五金工具',
@@ -208,12 +169,25 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  16 => 
+  13 => 
   array (
-    'cat_id' => '20',
-    'cat_name' => '家居饰品',
+    'cat_id' => '13',
+    'cat_name' => '卫浴用品',
     'measure_unit' => '',
-    'parent_id' => '3',
+    'parent_id' => '2',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '4',
+  ),
+  14 => 
+  array (
+    'cat_id' => '14',
+    'cat_name' => '五金电器',
+    'measure_unit' => '',
+    'parent_id' => '2',
     'is_show' => '1',
     'show_in_nav' => '0',
     'grade' => '0',
@@ -221,20 +195,20 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  17 => 
+  15 => 
   array (
-    'cat_id' => '17',
-    'cat_name' => '床上用品',
+    'cat_id' => '11',
+    'cat_name' => '灯饰照明',
     'measure_unit' => '',
-    'parent_id' => '3',
+    'parent_id' => '2',
     'is_show' => '1',
     'show_in_nav' => '0',
     'grade' => '0',
     'sort_order' => '50',
     'has_children' => '0',
-    'goods_num' => '1',
+    'goods_num' => '4',
   ),
-  18 => 
+  16 => 
   array (
     'cat_id' => '21',
     'cat_name' => '厨房餐饮',
@@ -247,7 +221,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  19 => 
+  17 => 
   array (
     'cat_id' => '18',
     'cat_name' => '居家日用',
@@ -260,7 +234,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => '1',
   ),
-  20 => 
+  18 => 
   array (
     'cat_id' => '22',
     'cat_name' => '生活电器',
@@ -273,7 +247,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  21 => 
+  19 => 
   array (
     'cat_id' => '19',
     'cat_name' => '布艺织物',
@@ -286,20 +260,33 @@ $data = array (
     'has_children' => '0',
     'goods_num' => '2',
   ),
-  22 => 
+  20 => 
   array (
-    'cat_id' => '23',
-    'cat_name' => '床',
+    'cat_id' => '20',
+    'cat_name' => '家居饰品',
     'measure_unit' => '',
-    'parent_id' => '4',
+    'parent_id' => '3',
     'is_show' => '1',
     'show_in_nav' => '0',
     'grade' => '0',
     'sort_order' => '50',
     'has_children' => '0',
-    'goods_num' => '7',
+    'goods_num' => 0,
   ),
-  23 => 
+  21 => 
+  array (
+    'cat_id' => '17',
+    'cat_name' => '床上用品',
+    'measure_unit' => '',
+    'parent_id' => '3',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '1',
+  ),
+  22 => 
   array (
     'cat_id' => '24',
     'cat_name' => '床垫',
@@ -312,7 +299,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  24 => 
+  23 => 
   array (
     'cat_id' => '25',
     'cat_name' => '床头柜',
@@ -325,33 +312,20 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
+  24 => 
+  array (
+    'cat_id' => '23',
+    'cat_name' => '床',
+    'measure_unit' => '',
+    'parent_id' => '4',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '7',
+  ),
   25 => 
-  array (
-    'cat_id' => '26',
-    'cat_name' => '沙发',
-    'measure_unit' => '',
-    'parent_id' => '5',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => '4',
-  ),
-  26 => 
-  array (
-    'cat_id' => '27',
-    'cat_name' => '茶几/边桌',
-    'measure_unit' => '',
-    'parent_id' => '5',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  27 => 
   array (
     'cat_id' => '28',
     'cat_name' => '电视柜',
@@ -364,33 +338,33 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
+  26 => 
+  array (
+    'cat_id' => '26',
+    'cat_name' => '沙发',
+    'measure_unit' => '',
+    'parent_id' => '5',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => '4',
+  ),
+  27 => 
+  array (
+    'cat_id' => '27',
+    'cat_name' => '茶几/边桌',
+    'measure_unit' => '',
+    'parent_id' => '5',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
   28 => 
-  array (
-    'cat_id' => '29',
-    'cat_name' => '餐桌',
-    'measure_unit' => '',
-    'parent_id' => '6',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  29 => 
-  array (
-    'cat_id' => '30',
-    'cat_name' => '餐椅',
-    'measure_unit' => '',
-    'parent_id' => '6',
-    'is_show' => '1',
-    'show_in_nav' => '0',
-    'grade' => '0',
-    'sort_order' => '50',
-    'has_children' => '0',
-    'goods_num' => 0,
-  ),
-  30 => 
   array (
     'cat_id' => '31',
     'cat_name' => '餐边柜',
@@ -403,12 +377,12 @@ $data = array (
     'has_children' => '0',
     'goods_num' => '4',
   ),
-  31 => 
+  29 => 
   array (
-    'cat_id' => '33',
-    'cat_name' => '书柜/书架',
+    'cat_id' => '29',
+    'cat_name' => '餐桌',
     'measure_unit' => '',
-    'parent_id' => '7',
+    'parent_id' => '6',
     'is_show' => '1',
     'show_in_nav' => '0',
     'grade' => '0',
@@ -416,7 +390,20 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  32 => 
+  30 => 
+  array (
+    'cat_id' => '30',
+    'cat_name' => '餐椅',
+    'measure_unit' => '',
+    'parent_id' => '6',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
+  31 => 
   array (
     'cat_id' => '34',
     'cat_name' => '书椅/转椅',
@@ -429,7 +416,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  33 => 
+  32 => 
   array (
     'cat_id' => '32',
     'cat_name' => '书桌/工作台',
@@ -442,12 +429,12 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  34 => 
+  33 => 
   array (
-    'cat_id' => '36',
-    'cat_name' => '儿童床头柜',
+    'cat_id' => '33',
+    'cat_name' => '书柜/书架',
     'measure_unit' => '',
-    'parent_id' => '8',
+    'parent_id' => '7',
     'is_show' => '1',
     'show_in_nav' => '0',
     'grade' => '0',
@@ -455,7 +442,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  35 => 
+  34 => 
   array (
     'cat_id' => '37',
     'cat_name' => '儿童衣柜',
@@ -468,7 +455,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  36 => 
+  35 => 
   array (
     'cat_id' => '35',
     'cat_name' => '儿童床',
@@ -481,12 +468,12 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  37 => 
+  36 => 
   array (
-    'cat_id' => '39',
-    'cat_name' => '休闲桌',
+    'cat_id' => '36',
+    'cat_name' => '儿童床头柜',
     'measure_unit' => '',
-    'parent_id' => '9',
+    'parent_id' => '8',
     'is_show' => '1',
     'show_in_nav' => '0',
     'grade' => '0',
@@ -494,7 +481,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  38 => 
+  37 => 
   array (
     'cat_id' => '40',
     'cat_name' => '休闲椅',
@@ -507,7 +494,7 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
-  39 => 
+  38 => 
   array (
     'cat_id' => '38',
     'cat_name' => '吊篮/吊椅',
@@ -520,10 +507,23 @@ $data = array (
     'has_children' => '0',
     'goods_num' => 0,
   ),
+  39 => 
+  array (
+    'cat_id' => '39',
+    'cat_name' => '休闲桌',
+    'measure_unit' => '',
+    'parent_id' => '9',
+    'is_show' => '1',
+    'show_in_nav' => '0',
+    'grade' => '0',
+    'sort_order' => '50',
+    'has_children' => '0',
+    'goods_num' => 0,
+  ),
   40 => 
   array (
-    'cat_id' => '42',
-    'cat_name' => '定制书柜/书台',
+    'cat_id' => '41',
+    'cat_name' => '定制橱柜',
     'measure_unit' => '',
     'parent_id' => '10',
     'is_show' => '1',
@@ -535,8 +535,8 @@ $data = array (
   ),
   41 => 
   array (
-    'cat_id' => '41',
-    'cat_name' => '定制橱柜',
+    'cat_id' => '42',
+    'cat_name' => '定制书柜/书台',
     'measure_unit' => '',
     'parent_id' => '10',
     'is_show' => '1',

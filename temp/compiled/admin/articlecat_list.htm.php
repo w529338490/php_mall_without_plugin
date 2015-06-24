@@ -10,11 +10,12 @@
 
 <table width="100%" cellspacing="1" cellpadding="2" id="list-table">
   <tr>
-    <th>菜单名称</th>
-    <th>菜单类型</th>
-    <th>关键词</th>
-    <th>排序</th>
-    <th>操作</th>
+    <th><?php echo $this->_var['lang']['cat_name']; ?></th>
+    <th><?php echo $this->_var['lang']['type']; ?></th>
+    <th><?php echo $this->_var['lang']['cat_desc']; ?></th>
+    <th><?php echo $this->_var['lang']['sort_order']; ?></th>
+    <th><?php echo $this->_var['lang']['show_in_nav']; ?></th>
+    <th><?php echo $this->_var['lang']['handler']; ?></th>
   </tr>
   <?php $_from = $this->_var['articlecat']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'cat');if (count($_from)):
     foreach ($_from AS $this->_var['cat']):
@@ -26,24 +27,24 @@
       <?php else: ?>
       <img src="images/menu_arrow.gif" width="9" height="9" border="0" style="margin-left:<?php echo $this->_var['cat']['level']; ?>em" />
       <?php endif; ?>
-      <span><?php echo htmlspecialchars($this->_var['cat']['cat_name']); ?></span>
+      <span><a href="article.php?act=list&amp;cat_id=<?php echo $this->_var['cat']['cat_id']; ?>"><?php echo htmlspecialchars($this->_var['cat']['cat_name']); ?></a></span>
     </td>
-    <td class="nowrap" align="center" valign="top">
-      <?php if ($this->_var['cat']['weixin_type'] == '0'): ?>click类型<?php else: ?><font color=red>view类型</font><?php endif; ?>
+    <td class="nowrap" valign="top">
+      <?php echo htmlspecialchars($this->_var['cat']['type_name']); ?>
     </td>
-    <td align="center" valign="top">
-      <?php if ($this->_var['cat']['weixin_key']): ?><?php echo htmlspecialchars($this->_var['cat']['weixin_key']); ?><?php else: ?><font color=red><?php echo $this->_var['cat']['links']; ?></font><?php endif; ?>
+    <td align="left" valign="top">
+      <?php echo htmlspecialchars($this->_var['cat']['cat_desc']); ?>
     </td>
-    <td width="10%" align="center" class="nowrap" valign="top"><span onclick="listTable.edit(this, 'edit_sort_order', <?php echo $this->_var['cat']['cat_id']; ?>)"><?php echo $this->_var['cat']['sort_order']; ?></span></td>
-    <td width="24%" align="center" class="nowrap" valign="top">
-      <a href="weixin_menu.php?act=edit&amp;id=<?php echo $this->_var['cat']['cat_id']; ?>">编辑</a>
-      <a href="javascript:;" onclick="listTable.remove(<?php echo $this->_var['cat']['cat_id']; ?>, '您确认要删除吗？')" title="删除">移除</a>
+    <td width="10%" align="right" class="nowrap" valign="top"><span onclick="listTable.edit(this, 'edit_sort_order', <?php echo $this->_var['cat']['cat_id']; ?>)"><?php echo $this->_var['cat']['sort_order']; ?></span></td>
+    <td width="10%" class="nowrap" valign="top"><img src="images/<?php if ($this->_var['cat']['show_in_nav'] == '1'): ?>yes<?php else: ?>no<?php endif; ?>.gif" onclick="listTable.toggle(this, 'toggle_show_in_nav', <?php echo $this->_var['cat']['cat_id']; ?>)" /></td>
+    <td width="24%" align="right" class="nowrap" valign="top">
+      <a href="articlecat.php?act=edit&amp;id=<?php echo $this->_var['cat']['cat_id']; ?>"><?php echo $this->_var['lang']['edit']; ?></a>
+      <?php if ($this->_var['cat']['cat_type'] != 2 && $this->_var['cat']['cat_type'] != 3 && $this->_var['cat']['cat_type'] != 4): ?>|
+      <a href="javascript:;" onclick="listTable.remove(<?php echo $this->_var['cat']['cat_id']; ?>, '<?php echo $this->_var['lang']['drop_confirm']; ?>')" title="<?php echo $this->_var['lang']['remove']; ?>"><?php echo $this->_var['lang']['remove']; ?></a>
+      <?php endif; ?>
     </td>
   </tr>
   <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
-  <tr><td colspan=5>
-<h1><span class="action-span" style="margin-right:45%;"><a href="weixin_menu_create.php">生成菜单</a></span></h1>
-  </td></tr>
 </table>
 
 <?php if ($this->_var['full_page']): ?>
@@ -64,7 +65,7 @@ var imgPlus = new Image();
 imgPlus.src = "images/menu_plus.gif";
 
 /**
- * 折叠菜单列表
+ * 折叠分类列表
  */
 function rowClicked(obj)
 {
@@ -72,14 +73,14 @@ function rowClicked(obj)
   img = obj;
   // 取得上二级tr>td>img对象
   obj = obj.parentNode.parentNode;
-  // 整个菜单列表表格
+  // 整个分类列表表格
   var tbl = document.getElementById("list-table");
-  // 当前菜单级别
+  // 当前分类级别
   var lvl = parseInt(obj.className);
   // 是否找到元素
   var fnd = false;
   var sub_display = img.src.indexOf('menu_minus.gif') > 0 ? 'none' : (Browser.isIE) ? 'block' : 'table-row' ;
-  // 遍历所有的菜单
+  // 遍历所有的分类
   for (i = 0; i < tbl.rows.length; i++)
   {
       var row = tbl.rows[i];

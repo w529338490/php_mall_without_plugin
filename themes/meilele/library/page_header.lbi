@@ -66,7 +66,7 @@ M.getCookie = function(a) {
             <div class="hideMenu">
               <ul>
                 <!-- {foreach name=nav_top_list from=$navigator_list.top item=nav} -->
-                <li><a href="{$nav.url}"  
+                <li><a href="{$nav.url}"
                   <!-- {if $nav.opennew eq 1} -->
                   target="_blank"
                   <!-- {/if} -->
@@ -78,8 +78,7 @@ M.getCookie = function(a) {
         <td><em class="line"></em></td>
         <td><a href="javascript:;" onClick="shoucang();">收藏本站</a></td>
         <td><em class="line"></em></td>
-        <td style="width:150px;"><div id="JS_head_scoll_phone_527" style="width:150px;height:24px;overflow:hidden;position:relative"><span>源码购买：</span><span class="hotLine">QQ249699062</span></div></td>
-        <td><a href="http://weibo.com/suqiannet" target="_blank" title="其才网络微博" class="sinaLink"></a></td>
+        <td style="width:150px;"><div id="JS_head_scoll_phone_527" style="width:150px;height:24px;overflow:hidden;position:relative"></div></td>
       </tr>
     </table>
 	<script type="text/javascript">
@@ -100,7 +99,7 @@ M.getCookie = function(a) {
     -->
     {/literal}
     </script>
-	
+
     <div class="btMap" >
       <div class="Left search_box">
         <div class="search">
@@ -112,8 +111,8 @@ M.getCookie = function(a) {
           </form>
           <div style="display: none;" id="JS_search_suggest" class="suggest"> </div>
         </div>
-        <div style="margin-top:5px;color:#999;width:416px;height:14px;overflow:hidden;"> 热门搜索： 
-          {foreach from=$searchkeywords item=val} <a href="search.php?keywords={$val|escape:url}" style="color:#999;">{$val}</a>&ensp; 
+        <div style="margin-top:5px;color:#999;width:416px;height:14px;overflow:hidden;"> 热门搜索：
+          {foreach from=$searchkeywords item=val} <a href="search.php?keywords={$val|escape:url}" style="color:#999;">{$val}</a>&ensp;
           {/foreach} </div>
       </div>
       <div id="JS_header_cart_handler" class="cart Right"> <a href="flow.php" class="cartLink"><span class="">购物车</span><strong class="red cartCount" id="cartInfo_number">{insert name='cart_count'}</strong><span>件</span><span class="arrow"></span></a>
@@ -123,8 +122,8 @@ M.getCookie = function(a) {
       </div>
       <div class="cart Right mymll"> <a href="user.php" class="cartLink"><span class="">我的中心</span></a> </div>
     </div>
-	
-	
+
+
   </div>
 </div>
 <script language="javascript">
@@ -178,13 +177,13 @@ function drop_cart_goods(id)
 						<div class="topMap clearfix">
 							<div class="subCat clearfix">
 								<div class="col">
-									<!--{foreach from=$cat.cat_id item=child name=cat_cat_id}-->	
+									<!--{foreach from=$cat.cat_id item=child name=cat_cat_id}-->
 									<dl class="item {if $smarty.foreach.cat_cat_id.iteration eq 1}no_border{/if}">
 										<dt class="dt"><a href="{$child.url}" class="red">{$child.name|escape:html}</a></dt>
 										<dd class="dd">
 										<!--{foreach from=$child.cat_id item=childer}-->
 											<span>|&ensp;<a href="{$childer.url}">{$childer.name|escape:html}</a>&ensp;</span>
-										<!--{/foreach}-->							
+										<!--{/foreach}-->
 										</dd>
 									</dl>
 									<!--{/foreach}-->
@@ -198,21 +197,21 @@ function drop_cart_goods(id)
 									<li class="li {if $smarty.foreach.index_image.iteration < 3}addTopBorder{/if}"><a href="{$ad.url}" target="_blank" title="{$ad.name}" class="img"><img src="{$ad.image}" width="85" heiht="50" alt="{$brandCat.name}" /></a><a class="name">{$ad.title}</a></li>
 									{/if}
 									{/foreach}
-									
+
 									</ul>
 									<h1 class="f14 red mt20">促销活动</h1>
 									<ul class="activity">
 									{foreach from=get_navad_by_cat_id($this->_var['cat']['id']) item=ad name=index_image}
 									<li><a href="{$ad.url}" target="_blank" title="{$ad.ad_code}">&bull;&ensp;&ensp;{$ad.ad_code}</a></li>
 									{/foreach}
-									
+
 									</ul>
 								</div>
 						</div>
 				</div>
 		    </div>
 		{/if}
-<!--{/foreach}-->		
+<!--{/foreach}-->
 		<div class="hotMenu">
 		  <table>
 			<tr>
@@ -241,7 +240,7 @@ _onReadyList.push( function(){
 						var hot = '<a href="china.html" class="site_all Left" onclick="$.goExpr(\'china.html\',\'\',\'\',\'全国\');return !1;"><strong>全国</strong></a>&nbsp;';
 						var inner = '';
 						var charList = '';
-						
+
 						$.each(json.city_list, function(key,item){
 							charList += '<a href="javascript:;">'+key+'</a>';
 							out += '<tr><th><div>'+key+'</div></th><td>';
@@ -258,7 +257,7 @@ _onReadyList.push( function(){
 						dom.find('#JS_header_city_hot').html( hot );
 						dom.find('#JS_header_city_char').html( charList );
 						dom.find('#JS_header_city_list').html( out );
-						
+
 						return dom;
 					}
 				}});
@@ -285,7 +284,7 @@ _onReadyList.push( function(){
 	$('#JS_head_expand_menu_target').on('mouseleave','div.JS_catItem',function(){
 		_hide_(this);
 	});
-	
+
 	$('#JS_MLL_search_header_input').focus(function(){
 		$.searchKey( 'JS_MLL_search_header_input', 'JS_search_suggest' );
 		$('#JS_MLL_search_header_input').unbind('focus');

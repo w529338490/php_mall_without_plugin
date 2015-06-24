@@ -82,7 +82,7 @@ if ($this->_foreach['nav_top_list']['total'] > 0):
     foreach ($_from AS $this->_var['nav']):
         $this->_foreach['nav_top_list']['iteration']++;
 ?>
-                <li><a href="<?php echo $this->_var['nav']['url']; ?>"  
+                <li><a href="<?php echo $this->_var['nav']['url']; ?>"
                   <?php if ($this->_var['nav']['opennew'] == 1): ?>
                   target="_blank"
                   <?php endif; ?>
@@ -94,8 +94,7 @@ if ($this->_foreach['nav_top_list']['total'] > 0):
         <td><em class="line"></em></td>
         <td><a href="javascript:;" onClick="shoucang();">收藏本站</a></td>
         <td><em class="line"></em></td>
-        <td style="width:150px;"><div id="JS_head_scoll_phone_527" style="width:150px;height:24px;overflow:hidden;position:relative"><span>源码购买：</span><span class="hotLine">QQ249699062</span></div></td>
-        <td><a href="http://weibo.com/suqiannet" target="_blank" title="其才网络微博" class="sinaLink"></a></td>
+        <td style="width:150px;"><div id="JS_head_scoll_phone_527" style="width:150px;height:24px;overflow:hidden;position:relative"></div></td>
       </tr>
     </table>
 	<script type="text/javascript">
@@ -116,7 +115,7 @@ if ($this->_foreach['nav_top_list']['total'] > 0):
     -->
     
     </script>
-	
+
     <div class="btMap" >
       <div class="Left search_box">
         <div class="search">
@@ -128,10 +127,10 @@ if ($this->_foreach['nav_top_list']['total'] > 0):
           </form>
           <div style="display: none;" id="JS_search_suggest" class="suggest"> </div>
         </div>
-        <div style="margin-top:5px;color:#999;width:416px;height:14px;overflow:hidden;"> 热门搜索： 
+        <div style="margin-top:5px;color:#999;width:416px;height:14px;overflow:hidden;"> 热门搜索：
           <?php $_from = $this->_var['searchkeywords']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'val');if (count($_from)):
     foreach ($_from AS $this->_var['val']):
-?> <a href="search.php?keywords=<?php echo urlencode($this->_var['val']); ?>" style="color:#999;"><?php echo $this->_var['val']; ?></a>&ensp; 
+?> <a href="search.php?keywords=<?php echo urlencode($this->_var['val']); ?>" style="color:#999;"><?php echo $this->_var['val']; ?></a>&ensp;
           <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?> </div>
       </div>
       <div id="JS_header_cart_handler" class="cart Right"> <a href="flow.php" class="cartLink"><span class="">购物车</span><strong class="red cartCount" id="cartInfo_number"><?php 
@@ -151,8 +150,8 @@ echo $this->_echash . $k['name'] . '|' . serialize($k) . $this->_echash;
       </div>
       <div class="cart Right mymll"> <a href="user.php" class="cartLink"><span class="">我的中心</span></a> </div>
     </div>
-	
-	
+
+
   </div>
 </div>
 <script language="javascript">
@@ -220,7 +219,7 @@ if ($this->_foreach['get_categories_tree']['total'] > 0):
 if ($this->_foreach['cat_cat_id']['total'] > 0):
     foreach ($_from AS $this->_var['child']):
         $this->_foreach['cat_cat_id']['iteration']++;
-?>	
+?>
 									<dl class="item <?php if ($this->_foreach['cat_cat_id']['iteration'] == 1): ?>no_border<?php endif; ?>">
 										<dt class="dt"><a href="<?php echo $this->_var['child']['url']; ?>" class="red"><?php echo htmlspecialchars($this->_var['child']['name']); ?></a></dt>
 										<dd class="dd">
@@ -228,7 +227,7 @@ if ($this->_foreach['cat_cat_id']['total'] > 0):
     foreach ($_from AS $this->_var['childer']):
 ?>
 											<span>|&ensp;<a href="<?php echo $this->_var['childer']['url']; ?>"><?php echo htmlspecialchars($this->_var['childer']['name']); ?></a>&ensp;</span>
-										<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>							
+										<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
 										</dd>
 									</dl>
 									<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
@@ -246,7 +245,7 @@ if ($this->_foreach['index_image']['total'] > 0):
 									<li class="li <?php if ($this->_foreach['index_image']['iteration'] < 3): ?>addTopBorder<?php endif; ?>"><a href="<?php echo $this->_var['ad']['url']; ?>" target="_blank" title="<?php echo $this->_var['ad']['name']; ?>" class="img"><img src="<?php echo $this->_var['ad']['image']; ?>" width="85" heiht="50" alt="<?php echo $this->_var['brandCat']['name']; ?>" /></a><a class="name"><?php echo $this->_var['ad']['title']; ?></a></li>
 									<?php endif; ?>
 									<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
-									
+
 									</ul>
 									<h1 class="f14 red mt20">促销活动</h1>
 									<ul class="activity">
@@ -257,14 +256,14 @@ if ($this->_foreach['index_image']['total'] > 0):
 ?>
 									<li><a href="<?php echo $this->_var['ad']['url']; ?>" target="_blank" title="<?php echo $this->_var['ad']['ad_code']; ?>">&bull;&ensp;&ensp;<?php echo $this->_var['ad']['ad_code']; ?></a></li>
 									<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
-									
+
 									</ul>
 								</div>
 						</div>
 				</div>
 		    </div>
 		<?php endif; ?>
-<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>		
+<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
 		<div class="hotMenu">
 		  <table>
 			<tr>
@@ -297,7 +296,7 @@ _onReadyList.push( function(){
 						var hot = '<a href="china.html" class="site_all Left" onclick="$.goExpr(\'china.html\',\'\',\'\',\'全国\');return !1;"><strong>全国</strong></a>&nbsp;';
 						var inner = '';
 						var charList = '';
-						
+
 						$.each(json.city_list, function(key,item){
 							charList += '<a href="javascript:;">'+key+'</a>';
 							out += '<tr><th><div>'+key+'</div></th><td>';
@@ -314,7 +313,7 @@ _onReadyList.push( function(){
 						dom.find('#JS_header_city_hot').html( hot );
 						dom.find('#JS_header_city_char').html( charList );
 						dom.find('#JS_header_city_list').html( out );
-						
+
 						return dom;
 					}
 				}});
@@ -341,7 +340,7 @@ _onReadyList.push( function(){
 	$('#JS_head_expand_menu_target').on('mouseleave','div.JS_catItem',function(){
 		_hide_(this);
 	});
-	
+
 	$('#JS_MLL_search_header_input').focus(function(){
 		$.searchKey( 'JS_MLL_search_header_input', 'JS_search_suggest' );
 		$('#JS_MLL_search_header_input').unbind('focus');

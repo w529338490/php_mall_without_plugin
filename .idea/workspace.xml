@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b30f9b21-a301-4caf-a730-7d126d562fbe" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.htaccess" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.htaccess.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/data/afficheimg/1385972141450905269.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/caches/d/article_cat_446EA05C.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/drag.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/flashplay_list.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/flashplay_tab.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/index.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/menu.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/privilege_info.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/privilege_list.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/start.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/top.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/weixin_menu_list.htm.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/wxch_bonus.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/wxch_config.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/wxch_keywords.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/wxch_keywords_infoimage.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/wxch_keywords_infotext.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/wxch_point.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/wxch_regmsg.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/admin/wxch_wxconfig.html.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/article_cat.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/auction_list.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/brand_list.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/category.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/goods_history.lbi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/goods_hot.lbi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/goods_list.lbi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/group_buy_list.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/help.lbi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/pages.lbi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/pages2.lbi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/ur_here.lbi.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/compiled/xspace.dwt.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/query_caches/sqlcache_2785936266_f0258e8b257a85e50ed9ecc63f555b8e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_4f024d71f49be85b7e4dd6e26402d737.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/query_caches/sqlcache_config_file_9429c8606c2c6a65dc3138c0ae16677f.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/static_caches/api_str.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/temp/static_caches/cloud_remind.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/meilele/images/logo.png" afterPath="$PROJECT_DIR$/themes/meilele/images/logo.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/art_cat_pid_releate.php" afterPath="$PROJECT_DIR$/temp/static_caches/art_cat_pid_releate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/cat_articles.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/cat_articles.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/cat_goods.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/cat_goods.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/cat_option_static.php" afterPath="$PROJECT_DIR$/temp/static_caches/cat_option_static.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/cat_pid_releate.php" afterPath="$PROJECT_DIR$/temp/static_caches/cat_pid_releate.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/cls_template.php" afterPath="$PROJECT_DIR$/includes/cls_template.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/languages/zh_cn/common.php" afterPath="$PROJECT_DIR$/languages/zh_cn/common.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/config.php" afterPath="$PROJECT_DIR$/data/config.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diguo/bdata/meilele2/ecs_ad_1.php" afterPath="$PROJECT_DIR$/diguo/bdata/meilele2/ecs_ad_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diguo/bdata/meilele2/ecs_admin_log_1.php" afterPath="$PROJECT_DIR$/diguo/bdata/meilele2/ecs_admin_log_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/diguo/bdata/meilele2/ecs_article_1.php" afterPath="$PROJECT_DIR$/diguo/bdata/meilele2/ecs_article_1.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/meilele/index.css" afterPath="$PROJECT_DIR$/themes/meilele/index.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/index.dwt.php" afterPath="$PROJECT_DIR$/temp/compiled/index.dwt.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/meilele/index.dwt" afterPath="$PROJECT_DIR$/themes/meilele/index.dwt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/caches/f/index_40F756F0.php" afterPath="$PROJECT_DIR$/temp/caches/f/index_40F756F0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/includes/lib.debug.php" afterPath="$PROJECT_DIR$/includes/lib.debug.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/member_info.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/member_info.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/admin/message.htm.php" afterPath="$PROJECT_DIR$/temp/compiled/admin/message.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/meilele/css/mll_common.min.css" afterPath="$PROJECT_DIR$/themes/meilele/css/mll_common.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/page_footer.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/page_footer.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/meilele/library/page_footer.lbi" afterPath="$PROJECT_DIR$/themes/meilele/library/page_footer.lbi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/page_header.lbi.php" afterPath="$PROJECT_DIR$/temp/compiled/page_header.lbi.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/themes/meilele/library/page_header.lbi" afterPath="$PROJECT_DIR$/themes/meilele/library/page_header.lbi" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/admin/pagefooter.htm.php" afterPath="$PROJECT_DIR$/temp/compiled/admin/pagefooter.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/compiled/admin/pageheader.htm.php" afterPath="$PROJECT_DIR$/temp/compiled/admin/pageheader.htm.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/recommend_goods.php" afterPath="$PROJECT_DIR$/temp/static_caches/recommend_goods.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/temp/static_caches/shop_config.php" afterPath="$PROJECT_DIR$/temp/static_caches/shop_config.php" />
+    </list>
+    <ignored path="yuehouse_mall.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="yuehouse_mall" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="24" />
+    <option name="width" value="1922" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yuehouse_mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yuehouse_mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="yuehouse_mall" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b30f9b21-a301-4caf-a730-7d126d562fbe" name="Default" comment="" />
+      <created>1435124184159</created>
+      <option name="number" value="Default" />
+      <updated>1435124184159</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="24" width="1922" height="1032" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32903227" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19739583" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>

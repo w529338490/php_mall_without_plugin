@@ -84,7 +84,7 @@ if ($this->_foreach['index_image']['total'] > 0):
 	<?php if ($this->_var['region_id'] > 0): ?>
 <div class="Left"><strong class="ep">欢迎光临</strong><a href="expr-<?php echo $this->_var['region_id']; ?>.html" target="_blank"><strong class="red"><?php echo $this->_var['region_name']; ?>体验馆<?php if ($this->_var['regions_count'] > 0): ?>(<?php echo $this->_var['regions_count']; ?>家)<?php endif; ?>！</strong></a><span class="weekly">店长推荐</span></div>      
 	<?php else: ?>
-<div class="Left"><strong><span class="red">美乐乐</span><span>在您身边</span></strong><span class="weekly">每周推荐</span></div>
+<div class="Left"><strong><span class="red">悦家</span><span>在您身边</span></strong><span class="weekly">每周推荐</span></div>
 	<?php endif; ?>  
 	<?php if ($this->_var['region_id'] > 0): ?>
 	<div class="Right"><a href="expr-<?php echo $this->_var['region_id']; ?>.html" target="_blank" title="<?php echo $this->_var['region_name']; ?>体验馆" class="go"><i></i><?php echo $this->_var['region_name']; ?>体验馆</a></div>

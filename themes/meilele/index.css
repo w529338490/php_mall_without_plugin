@@ -736,7 +736,9 @@ body,html body {
 	background-position:-61px -63px
 }
 .floor1 .header {
-	height:35px
+	height:35px;
+  background:
+  url(themes/meilele/images/topbg.jpg)
 }
 .floor1 .header .Right {
 	padding-top:6px;

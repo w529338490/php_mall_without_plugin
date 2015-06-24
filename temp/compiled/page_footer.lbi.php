@@ -6,9 +6,9 @@
           <h4>24小时客服热线</h4>
           <p>QQ249699062</p>
         </div>
-        <div class="count">截止今日，美乐乐在全国已有实体店<strong class="red">0</strong>家</div>
-        <a class="look" href="expr.php" target="_blank" title="查看全国实体店">查看全国实体店</a> 
-		
+        <div class="count">截止今日，悦家在全国已有实体店<strong class="red">0</strong>家</div>
+        <a class="look" href="expr.php" target="_blank" title="查看全国实体店">查看全国实体店</a>
+
 		</div>
       <table cellspacing="0" cellpadding="0" class="dtab Left clearfix">
         <tr>
@@ -20,24 +20,24 @@ if ($this->_foreach['shop_help']['total'] > 0):
 ?>
           <td><dl class="dl">
               <dt class="dt"><?php echo $this->_var['help_cat']['cat_name']; ?></dt>
-              <dd class="dd"> 
+              <dd class="dd">
 			  <?php $_from = $this->_var['help_cat']['article']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'item');if (count($_from)):
     foreach ($_from AS $this->_var['item']):
 ?>
               <a href="<?php echo $this->_var['item']['url']; ?>" target="_blank"><?php echo $this->_var['item']['short_title']; ?></a>
-              <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?> 
-			  
+              <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
+
 			  </dd>
             </dl></td>
-		<td><div class="line"></div></td>	
-		<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>	
-          
+		<td><div class="line"></div></td>
+		<?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
+
         </tr>
       </table>
       <div class="weixin Right" style="width:140px;">
-        <h2 class="title">其才网络正版源码</h2>
-        <div class="img"><a target="_blank"><img src="themes/meilele/images/blank.gif" width="100" height="100" /></a></div>
-        <p>手机扫一扫,购正版源码!</p>
+        <h2 class="title">悦家APP</h2>
+        <div class="img"><a target="_blank"><img src="themes/meilele/images/yuehouse_app_er_wei_ma.png" width="100" height="100" /></a></div>
+        <p>手机扫一扫,下载悦家APP!</p>
       </div>
     </div>
   </div>
@@ -59,15 +59,15 @@ if ($this->_foreach['shop_help']['total'] > 0):
   <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
   </div>
   <?php endif; ?>
-  <div class="w footer-copy"> 
-  <?php $_from = $this->_var['navigator_list']['bottom']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'nav_0_22034700_1409733434');$this->_foreach['nav_bottom_list'] = array('total' => count($_from), 'iteration' => 0);
+  <div class="w footer-copy">
+  <?php $_from = $this->_var['navigator_list']['bottom']; if (!is_array($_from) && !is_object($_from)) { settype($_from, 'array'); }; $this->push_vars('', 'nav_0_88046500_1435132993');$this->_foreach['nav_bottom_list'] = array('total' => count($_from), 'iteration' => 0);
 if ($this->_foreach['nav_bottom_list']['total'] > 0):
-    foreach ($_from AS $this->_var['nav_0_22034700_1409733434']):
+    foreach ($_from AS $this->_var['nav_0_88046500_1435132993']):
         $this->_foreach['nav_bottom_list']['iteration']++;
 ?>
-  <a href="<?php echo $this->_var['nav_0_22034700_1409733434']['url']; ?>"  <?php if ($this->_var['nav_0_22034700_1409733434']['opennew'] == 1): ?> target="_blank" <?php endif; ?>><?php echo $this->_var['nav_0_22034700_1409733434']['name']; ?></a><?php if (! ($this->_foreach['nav_bottom_list']['iteration'] == $this->_foreach['nav_bottom_list']['total'])): ?> | <?php endif; ?>
+  <a href="<?php echo $this->_var['nav_0_88046500_1435132993']['url']; ?>"  <?php if ($this->_var['nav_0_88046500_1435132993']['opennew'] == 1): ?> target="_blank" <?php endif; ?>><?php echo $this->_var['nav_0_88046500_1435132993']['name']; ?></a><?php if (! ($this->_foreach['nav_bottom_list']['iteration'] == $this->_foreach['nav_bottom_list']['total'])): ?> | <?php endif; ?>
   <?php endforeach; endif; unset($_from); ?><?php $this->pop_vars();; ?>
-  
+
   <br />
     <?php echo $this->_var['copyright']; ?><br />
 	<?php echo $this->_var['shop_address']; ?> <?php echo $this->_var['shop_postcode']; ?>
@@ -116,7 +116,7 @@ if ($this->_foreach['nav_bottom_list']['total'] > 0):
     <?php if ($this->_var['icp_number']): ?>
   <?php echo $this->_var['lang']['icp_number']; ?>:<a href="http://www.miibeian.gov.cn/" target="_blank"><?php echo $this->_var['icp_number']; ?></a><br />
   <?php endif; ?>
-  
+
 	</div>
 </div>
 <script id="JS_city_data" type="text/html">{
@@ -133,11 +133,11 @@ echo $this->_echash . $k['name'] . '|' . serialize($k) . $this->_echash;
 			<div class="Left mycity">
 				<div id="JS_current_city_box">
 					当前城市：<strong id="JS_city_current_city"></strong>
-					
+
 				</div>
 				<div id="JS_default_city_delete" style="dsiplay:none"></div>
 			</div>
-			
+
 		</div>
 		<div class="showPanel showPanel2 clearfix">
 			<div class="hot_city" id="JS_header_city_hot"></div>
@@ -164,8 +164,8 @@ $.__IMG = '' || '';
 </script>
 <script type="text/javascript">
 (function(c, b) {
-	
-	
+
+
 })(document, jQuery);
 function _INIT_HEAD_SEARCH(data) {
 	var json;
@@ -265,7 +265,7 @@ function _show_(j, d) {
 			l.isDone = true;
 		}
 	}
-	
+
 	$(j).addClass("hover");
 	if (d && d.isLazyLoad && j.isDone) {
 		var g = j.find("img");
@@ -304,32 +304,32 @@ function shoucang() {
 }
 var car_number = 0;
 function DY_cart_detail_nav_cb(b) {
-	
+
 }
 
 var Cart = {};
 Cart.handdler = $("#JS_header_cart_handler");
 Cart.Dom = $("#JS_header_cart_list");
 Cart.show = function() {
-	
+
 	Cart.handdler.addClass("hover");
 };
 Cart.hide = function() {
 	Cart.handdler.removeClass("hover");
 };
 Cart.del = function(g) {
-	
-	
+
+
 };
 Cart.formatData = function(e) {
-	
+
 };
 Cart.goPreCheckOut = function() {
-	
+
 };
 function exprCallBackNum(json) {
-	
-	
+
+
 }
 $("#JS_header_cart_handler").hover(Cart.show, Cart.hide);
 /*GH:2013-11-18 18:25:14*/</script>
@@ -579,7 +579,7 @@ function subscribe(){
 		$.alert("您输入的邮箱地址不合法！");
 		return;
 	}
-	
+
 	$.ajax({
 					type:"GET",
 					url:'user.php?act=email_list&job=add&email=' + em,
@@ -588,8 +588,8 @@ function subscribe(){
 					data:'',
 					success:rep_add_email_list
 				});
-	
-	
+
+
 }
 
 function rep_add_email_list(text)
