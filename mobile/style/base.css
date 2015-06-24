@@ -21,6 +21,7 @@ a {
 }
 img {
 	vertical-align:middle;
+  height:35px;
 }
 .clear {
 	clear:both;
@@ -134,33 +135,30 @@ header {
 	margin: auto;
 	padding: 0 6px;
 	color: #FFF;
-	background:#c70600;
+	background:#01b7aa;
 	text-align: right;
 	overflow: hidden;
-	border-bottom: 1px solid #7c170a;
 }
 
 header a {
 	display: inline-block;
 	vertical-align: middle;
-	height: 28px;
+	height: 47px;
 	line-height: 28px;
-	margin:8px 2px;
-	padding: 0 5px;
+	margin:-3px 2px;
+	padding: 7px 5px;
 	color: #fff;
 	font-size: .875em;
-	border: 1px solid #7c170a;
 	border-radius: 5px;
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	webkit-box-shadow: 0 1px 2px #da3535 inset;
-	box-shadow: 0 1px 2px #da3535 inset;
 }
 header .logo {
 	float:left;
 	width: 46%;
 	line-height: 36px;
-	margin:0 auto
+	margin:0 auto;
 }
 .to-top {
 	border-top: 1px solid #fcfaf9;
@@ -174,7 +172,7 @@ header .logo {
 	cursor: pointer;
 	line-height: 30px;
 	text-align: center;
-	color: #db2929;
+	color: #01ba77;
 	font-size: .875em;
 }
 footer {
@@ -845,9 +843,9 @@ html[xmlns] .slides {display: block;}
 .flex-control-nav li a:hover {background-position: 0 -13px;}
 .flex-control-nav li a.active {background-position: 0 -26px; cursor: default;}
 
-.ft{ position:fixed; bottom:0;height: 44px; width:100%;line-height: 44px; text-align:center;background:#343434;}
+.ft{ position:fixed; bottom:0;height: 44px; width:100%;line-height: 44px; text-align:center;background:#01b7aa;}
 .ft a{ width:19%; display:inline-block; text-indent:-9999px; text-align:center; }
-.ft a:hover,.ft a.a{ background:#1e1e1e;}
+.ft a:hover,.ft a.a{ background:#01b7aa;}
 .ft a em{ display:block; width:34px; height:44px; margin:0 auto;background:url(../images/nav.png) no-repeat 0 0;}
 .ft a .n2{ background-position:0 -44px;}
 .ft a .n3{ background-position:0 -88px;}

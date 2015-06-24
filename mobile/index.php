@@ -32,7 +32,7 @@ $pcat_array = get_categories_tree();
 	}
 	}
 $smarty->assign('cat_array' , $pcat_array);
-	
+
 $new_goods = get_recommend_goods('new');
 $new_num = count($new_goods);
 $smarty->assign('new_num' , $new_num);
@@ -167,7 +167,7 @@ else
 	$searchkeywords = array();
 }
 $smarty->assign('searchkeywords', $searchkeywords);
-$smarty->assign('get_index_ad_data',     get_index_ad_data());  
+$smarty->assign('get_index_ad_data',     get_index_ad_data());
 $smarty->assign('wap_logo', $_CFG['wap_logo']);
 $smarty->assign('footer', get_footer());
 $smarty->display("index.html");
@@ -193,7 +193,7 @@ function get_cat_articles($cat_id, $page = 1, $size = 20 ,$requirement='')
     {
         $cat_str = get_article_children($cat_id);
     }
-    //增加搜索条件，如果有搜索内容就进行搜索    
+    //增加搜索条件，如果有搜索内容就进行搜索
     if ($requirement != '')
     {
         $sql = 'SELECT article_id, title, author, add_time, file_url, open_type' .
@@ -201,9 +201,9 @@ function get_cat_articles($cat_id, $page = 1, $size = 20 ,$requirement='')
                ' WHERE is_open = 1 AND title like \'%' . $requirement . '%\' ' .
                ' ORDER BY article_type DESC, article_id DESC';
     }
-    else 
+    else
     {
-        
+
         $sql = 'SELECT article_id, title, author, add_time, file_url, open_type' .
                ' FROM ' .$GLOBALS['ecs']->table('article') .
                ' WHERE is_open = 1 AND ' . $cat_str .

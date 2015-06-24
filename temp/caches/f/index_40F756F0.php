@@ -1,4 +1,4 @@
-<?php exit;?>a:3:{s:8:"template";a:5:{i:0;s:49:"/workspace/yuehouse_mall/themes/meilele/index.dwt";i:1;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_header.lbi";i:2;s:64:"/workspace/yuehouse_mall/themes/meilele/library/cat_articles.lbi";i:3;s:61:"/workspace/yuehouse_mall/themes/meilele/library/cat_goods.lbi";i:4;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_footer.lbi";}s:7:"expires";i:1435054675;s:8:"maketime";i:1435051075;}<!DOCTYPE HTML>
+<?php exit;?>a:3:{s:8:"template";a:5:{i:0;s:49:"/workspace/yuehouse_mall/themes/meilele/index.dwt";i:1;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_header.lbi";i:2;s:64:"/workspace/yuehouse_mall/themes/meilele/library/cat_articles.lbi";i:3;s:61:"/workspace/yuehouse_mall/themes/meilele/library/cat_goods.lbi";i:4;s:63:"/workspace/yuehouse_mall/themes/meilele/library/page_footer.lbi";}s:7:"expires";i:1435120059;s:8:"maketime";i:1435116459;}<!DOCTYPE HTML>
 <html>
 <head>
 <meta name="Generator" content="ECSHOP v2.7.3" />
